@@ -1,0 +1,38 @@
+! Blurb file created by Inform build 6M62
+
+status "/usr/share/gnome-inform7/Miscellany/CblorbModel.html" "/home/david/Inform/Miguelon/lopurpura/Felicidades_Miguel.inform/Build/StatusCblorb.html"
+
+
+! Identification
+
+project folder "/home/david/Inform/Miguelon/lopurpura/Felicidades_Miguel.inform"
+release to "/home/david/Inform/Miguelon/lopurpura/Felicidades_Miguel.materials/Release"
+
+! Blorb instructions
+
+storyfile leafname "--FELICIDADES, MIGUEL!!.gblorb"
+storyfile "/home/david/Inform/Miguelon/lopurpura/Felicidades_Miguel.inform/Build/output.ulx" include
+ifiction "/home/david/Inform/Miguelon/lopurpura/Felicidades_Miguel.inform/Metadata.iFiction" include
+cover "/usr/share/gnome-inform7/Miscellany/Cover.jpg"
+picture 1 "/usr/share/gnome-inform7/Miscellany/Cover.jpg"
+
+! Placeholder variables
+
+placeholder [IFID] = "BA3BC4D2-1BE5-11E8-94E3-780CB8846B38"
+placeholder [RELEASE] = "1"
+placeholder [YEAR] = "2018"
+placeholder [TITLE] = "¡¡FELICIDADES, MIGUEL!!"
+placeholder [AUTHOR] = "Lo Purpura"
+placeholder [BLURB] = "Una historia de ciencia ficción, enanos, gallinas y rebujitos."
+
+! Other material to release
+
+status alternative ||Using 'Release along with cover art', to provide something more distinctive than the default artwork above&nbsp;<a href=inform:/doc403.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with a website'&nbsp;<a href=inform:/doc405.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with an interpreter', for in-browser play on your website&nbsp;<a href=inform:/doc406.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with a file of "Such-and-Such" called "whatever.pdf"', perhaps to add a manual, or a welcoming note&nbsp;<a href=inform:/doc401.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with the source text'&nbsp;<a href=inform:/doc412.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with a solution'&nbsp;<a href=inform:/doc411.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with the library card'&nbsp;<a href=inform:/doc412.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with the introductory booklet'&nbsp;<a href=inform:/doc404.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with the introductory postcard'&nbsp;<a href=inform:/doc404.html><img border=0 src=inform:/doc_images/help.png></a>||

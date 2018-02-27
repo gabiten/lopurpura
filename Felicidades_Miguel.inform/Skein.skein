@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Skein rootNode="node-0xf387c0" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+<Skein rootNode="node-0x14f7430" xmlns="http://www.logicalshift.org.uk/IF/Skein">
   <generator>Inform 7</generator>
-  <activeNode nodeId="node-0xf38940"/>
-  <item nodeId="node-0xf387c0">
+  <activeNode nodeId="node-0x14f7430"/>
+  <item nodeId="node-0x14f7430">
     <command xml:space="preserve">- inicio -</command>
     <result xml:space="preserve">¡¡FELICIDADES, MIGUEL!!
 Programado por Lo Purpura,
@@ -13,11 +13,11 @@ basado en un relato original de Lo Purpura</result>
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xf38940"/>
-      <child nodeId="node-0x14f0f10"/>
+      <child nodeId="node-0x14f75b0"/>
+      <child nodeId="node-0x1abbc10"/>
     </children>
   </item>
-  <item nodeId="node-0xf38940">
+  <item nodeId="node-0x14f75b0">
     <command xml:space="preserve"></command>
     <result xml:space="preserve">¡¡FELICIDADES, MIGUEL!!
 Una historia de ciencia ficción, enanos, gallinas y rebujitos. por Lo Purpura
@@ -39,29 +39,29 @@ Miras hacia el origen de esa voz... &quot;¿Quién ha invitado a Carlos Alberola
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xf38ac0"/>
-      <child nodeId="node-0x10fe440"/>
-      <child nodeId="node-0x1190600"/>
-      <child nodeId="node-0xec6580"/>
-      <child nodeId="node-0x12e8a40"/>
-      <child nodeId="node-0x1325d60"/>
-      <child nodeId="node-0x138b710"/>
-      <child nodeId="node-0x138b890"/>
-      <child nodeId="node-0x13b55b0"/>
-      <child nodeId="node-0x141a310"/>
-      <child nodeId="node-0x145f430"/>
-      <child nodeId="node-0x145f8b0"/>
-      <child nodeId="node-0x145fbb0"/>
-      <child nodeId="node-0x145feb0"/>
-      <child nodeId="node-0x148a420"/>
-      <child nodeId="node-0x148aa20"/>
-      <child nodeId="node-0x148ad20"/>
-      <child nodeId="node-0x14c61b0"/>
-      <child nodeId="node-0x14c6ab0"/>
-      <child nodeId="node-0x14f0790"/>
+      <child nodeId="node-0x14f7730"/>
+      <child nodeId="node-0x16b6130"/>
+      <child nodeId="node-0x175b2f0"/>
+      <child nodeId="node-0x1878300"/>
+      <child nodeId="node-0x18b4780"/>
+      <child nodeId="node-0x18dda20"/>
+      <child nodeId="node-0x1944490"/>
+      <child nodeId="node-0x1944610"/>
+      <child nodeId="node-0x19802d0"/>
+      <child nodeId="node-0x19aaea0"/>
+      <child nodeId="node-0x1a19180"/>
+      <child nodeId="node-0x1a19600"/>
+      <child nodeId="node-0x1a19900"/>
+      <child nodeId="node-0x1a19c00"/>
+      <child nodeId="node-0x1a55130"/>
+      <child nodeId="node-0x1a55730"/>
+      <child nodeId="node-0x1a55a30"/>
+      <child nodeId="node-0x1a55d30"/>
+      <child nodeId="node-0x1a7f770"/>
+      <child nodeId="node-0x1abb490"/>
     </children>
   </item>
-  <item nodeId="node-0xf38ac0">
+  <item nodeId="node-0x14f7730">
     <command xml:space="preserve">norte</command>
     <result xml:space="preserve">No conozco ese verbo.
 
@@ -72,10 +72,10 @@ Miras hacia el origen de esa voz... &quot;¿Quién ha invitado a Carlos Alberola
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xf38c40"/>
+      <child nodeId="node-0x14f78b0"/>
     </children>
   </item>
-  <item nodeId="node-0xf38c40">
+  <item nodeId="node-0x14f78b0">
     <command xml:space="preserve">ir al norte</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -86,10 +86,10 @@ Miras hacia el origen de esa voz... &quot;¿Quién ha invitado a Carlos Alberola
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xf38dc0"/>
+      <child nodeId="node-0x14f7a30"/>
     </children>
   </item>
-  <item nodeId="node-0xf38dc0">
+  <item nodeId="node-0x14f7a30">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Pasillo
@@ -101,10 +101,10 @@ Pasillo
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xf38f40"/>
+      <child nodeId="node-0x14f7bb0"/>
     </children>
   </item>
-  <item nodeId="node-0xf38f40">
+  <item nodeId="node-0x14f7bb0">
     <command xml:space="preserve">north</command>
     <result xml:space="preserve">No puedes ir por ahí.
 
@@ -115,10 +115,10 @@ Pasillo
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x10fe140"/>
+      <child nodeId="node-0x14f7d30"/>
     </children>
   </item>
-  <item nodeId="node-0x10fe140">
+  <item nodeId="node-0x14f7d30">
     <command xml:space="preserve">south</command>
     <result xml:space="preserve">
 Mi antiguo cuarto
@@ -131,10 +131,10 @@ Me despierto con un terrible dolor de cabeza y desorientado. Cuando consigo inco
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x10fe2c0"/>
+      <child nodeId="node-0x14f7eb0"/>
     </children>
   </item>
-  <item nodeId="node-0x10fe2c0">
+  <item nodeId="node-0x14f7eb0">
     <command xml:space="preserve">mirar</command>
     <result xml:space="preserve">Mi antiguo cuarto
 Me despierto con un terrible dolor de cabeza y desorientado. Cuando consigo incorporarme veo que estoy en un lugar conocido. Tardo algunos segundos en darme cuenta... ¡es mi antigua habitación del piso de Valladolid!
@@ -146,7 +146,7 @@ Me despierto con un terrible dolor de cabeza y desorientado. Cuando consigo inco
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x10fe440">
+  <item nodeId="node-0x16b6130">
     <command xml:space="preserve">mirar</command>
     <result xml:space="preserve">Mi antigua habitación
 El escritorio, la cama, la estanteria, todo sigue igual.
@@ -160,15 +160,15 @@ Puedes ver una puerta.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x10fe5c0"/>
-      <child nodeId="node-0x1128110"/>
-      <child nodeId="node-0x1128890"/>
-      <child nodeId="node-0x1128d10"/>
-      <child nodeId="node-0x1166320"/>
-      <child nodeId="node-0x11664a0"/>
+      <child nodeId="node-0x16b62b0"/>
+      <child nodeId="node-0x16b6d30"/>
+      <child nodeId="node-0x16f45b0"/>
+      <child nodeId="node-0x16f4a30"/>
+      <child nodeId="node-0x16f4eb0"/>
+      <child nodeId="node-0x171d150"/>
     </children>
   </item>
-  <item nodeId="node-0x10fe5c0">
+  <item nodeId="node-0x16b62b0">
     <command xml:space="preserve">observar</command>
     <result xml:space="preserve">¿Qué quieres observar?
 
@@ -179,10 +179,10 @@ Puedes ver una puerta.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x10fe740"/>
+      <child nodeId="node-0x16b6430"/>
     </children>
   </item>
-  <item nodeId="node-0x10fe740">
+  <item nodeId="node-0x16b6430">
     <command xml:space="preserve">observar mi antiguo cuarto</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -193,10 +193,10 @@ Puedes ver una puerta.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x10fe8c0"/>
+      <child nodeId="node-0x16b65b0"/>
     </children>
   </item>
-  <item nodeId="node-0x10fe8c0">
+  <item nodeId="node-0x16b65b0">
     <command xml:space="preserve">mirar mi antiguo cuarto</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -207,10 +207,10 @@ Puedes ver una puerta.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x10fea40"/>
+      <child nodeId="node-0x16b6730"/>
     </children>
   </item>
-  <item nodeId="node-0x10fea40">
+  <item nodeId="node-0x16b6730">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Pasillo
@@ -222,10 +222,10 @@ Pasillo
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x10febc0"/>
+      <child nodeId="node-0x16b68b0"/>
     </children>
   </item>
-  <item nodeId="node-0x10febc0">
+  <item nodeId="node-0x16b68b0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Mi antiguo cuarto
@@ -238,10 +238,10 @@ Me despierto con un terrible dolor de cabeza y desorientado. Cuando consigo inco
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x10fed40"/>
+      <child nodeId="node-0x16b6a30"/>
     </children>
   </item>
-  <item nodeId="node-0x10fed40">
+  <item nodeId="node-0x16b6a30">
     <command xml:space="preserve">mirar</command>
     <result xml:space="preserve">Mi antiguo cuarto
 Me despierto con un terrible dolor de cabeza y desorientado. Cuando consigo incorporarme veo que estoy en un lugar conocido. Tardo algunos segundos en darme cuenta... ¡es mi antigua habitación del piso de Valladolid!
@@ -253,10 +253,10 @@ Me despierto con un terrible dolor de cabeza y desorientado. Cuando consigo inco
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x10feec0"/>
+      <child nodeId="node-0x16b6bb0"/>
     </children>
   </item>
-  <item nodeId="node-0x10feec0">
+  <item nodeId="node-0x16b6bb0">
     <command xml:space="preserve">mirar</command>
     <result xml:space="preserve">Mi antiguo cuarto
 Me despierto con un terrible dolor de cabeza y desorientado. Cuando consigo incorporarme veo que estoy en un lugar conocido. Tardo algunos segundos en darme cuenta... ¡es mi antigua habitación del piso de Valladolid!
@@ -268,7 +268,7 @@ Me despierto con un terrible dolor de cabeza y desorientado. Cuando consigo inco
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x1128110">
+  <item nodeId="node-0x16b6d30">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Pasillo
@@ -280,10 +280,10 @@ Pasillo
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1128290"/>
+      <child nodeId="node-0x16b6eb0"/>
     </children>
   </item>
-  <item nodeId="node-0x1128290">
+  <item nodeId="node-0x16b6eb0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Mi antigua habitación
@@ -296,10 +296,10 @@ El escritorio, la cama, todo sigue igual.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1128410"/>
+      <child nodeId="node-0x16f4130"/>
     </children>
   </item>
-  <item nodeId="node-0x1128410">
+  <item nodeId="node-0x16f4130">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">No puedes ir por ahí.
 
@@ -310,10 +310,10 @@ El escritorio, la cama, todo sigue igual.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1128590"/>
+      <child nodeId="node-0x16f42b0"/>
     </children>
   </item>
-  <item nodeId="node-0x1128590">
+  <item nodeId="node-0x16f42b0">
     <command xml:space="preserve">north</command>
     <result xml:space="preserve">No puedes ir por ahí.
 
@@ -324,10 +324,10 @@ El escritorio, la cama, todo sigue igual.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1128710"/>
+      <child nodeId="node-0x16f4430"/>
     </children>
   </item>
-  <item nodeId="node-0x1128710">
+  <item nodeId="node-0x16f4430">
     <command xml:space="preserve">norte</command>
     <result xml:space="preserve">No conozco ese verbo.
 
@@ -338,7 +338,7 @@ El escritorio, la cama, todo sigue igual.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x1128890">
+  <item nodeId="node-0x16f45b0">
     <command xml:space="preserve"></command>
     <result xml:space="preserve">¿Perdón?
 
@@ -349,10 +349,10 @@ El escritorio, la cama, todo sigue igual.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1128a10"/>
+      <child nodeId="node-0x16f4730"/>
     </children>
   </item>
-  <item nodeId="node-0x1128a10">
+  <item nodeId="node-0x16f4730">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Pasillo
@@ -364,10 +364,10 @@ Pasillo
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1128b90"/>
+      <child nodeId="node-0x16f48b0"/>
     </children>
   </item>
-  <item nodeId="node-0x1128b90">
+  <item nodeId="node-0x16f48b0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Mi antigua habitación
@@ -380,7 +380,7 @@ El escritorio, la cama, todo sigue igual.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x1128d10">
+  <item nodeId="node-0x16f4a30">
     <command xml:space="preserve">ex estanteria</command>
     <result xml:space="preserve">Llena de libros.
 
@@ -391,10 +391,10 @@ El escritorio, la cama, todo sigue igual.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1128e90"/>
+      <child nodeId="node-0x16f4bb0"/>
     </children>
   </item>
-  <item nodeId="node-0x1128e90">
+  <item nodeId="node-0x16f4bb0">
     <command xml:space="preserve">ex cama</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -405,10 +405,10 @@ El escritorio, la cama, todo sigue igual.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x11661a0"/>
+      <child nodeId="node-0x16f4d30"/>
     </children>
   </item>
-  <item nodeId="node-0x11661a0">
+  <item nodeId="node-0x16f4d30">
     <command xml:space="preserve">ex</command>
     <result xml:space="preserve">(la puerta)
 Es la puerta que da al pasillo, pero parece cerrada.
@@ -420,7 +420,7 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x1166320">
+  <item nodeId="node-0x16f4eb0">
     <command xml:space="preserve">ex escritorio</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -431,7 +431,7 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x11664a0">
+  <item nodeId="node-0x171d150">
     <command xml:space="preserve">abrir puerta</command>
     <result xml:space="preserve">Está cerrada con llave.
 
@@ -442,10 +442,10 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1166620"/>
+      <child nodeId="node-0x171d2d0"/>
     </children>
   </item>
-  <item nodeId="node-0x1166620">
+  <item nodeId="node-0x171d2d0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">No puedes ir por ahí.
 
@@ -456,10 +456,10 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x11667a0"/>
+      <child nodeId="node-0x171d450"/>
     </children>
   </item>
-  <item nodeId="node-0x11667a0">
+  <item nodeId="node-0x171d450">
     <command xml:space="preserve">atravesar puerta</command>
     <result xml:space="preserve">(abriendo primero la puerta)
 Está cerrada con llave.
@@ -471,10 +471,10 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1166920"/>
+      <child nodeId="node-0x171d5d0"/>
     </children>
   </item>
-  <item nodeId="node-0x1166920">
+  <item nodeId="node-0x171d5d0">
     <command xml:space="preserve">cruzar puerta</command>
     <result xml:space="preserve">(abriendo primero la puerta)
 Está cerrada con llave.
@@ -486,10 +486,10 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1166aa0"/>
+      <child nodeId="node-0x171d750"/>
     </children>
   </item>
-  <item nodeId="node-0x1166aa0">
+  <item nodeId="node-0x171d750">
     <command xml:space="preserve">abrir puerta</command>
     <result xml:space="preserve">Está cerrada con llave.
 
@@ -500,10 +500,10 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1166c20"/>
+      <child nodeId="node-0x171d8d0"/>
     </children>
   </item>
-  <item nodeId="node-0x1166c20">
+  <item nodeId="node-0x171d8d0">
     <command xml:space="preserve">d</command>
     <result xml:space="preserve">No puedes ir por ahí.
 
@@ -514,10 +514,10 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1166da0"/>
+      <child nodeId="node-0x171da50"/>
     </children>
   </item>
-  <item nodeId="node-0x1166da0">
+  <item nodeId="node-0x171da50">
     <command xml:space="preserve">i</command>
     <result xml:space="preserve">No llevas nada.
 
@@ -528,10 +528,10 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1166f20"/>
+      <child nodeId="node-0x171dbd0"/>
     </children>
   </item>
-  <item nodeId="node-0x1166f20">
+  <item nodeId="node-0x171dbd0">
     <command xml:space="preserve">coger estanteria</command>
     <result xml:space="preserve">Difícilmente puedes llevarte eso.
 
@@ -542,10 +542,10 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1190180"/>
+      <child nodeId="node-0x171dd50"/>
     </children>
   </item>
-  <item nodeId="node-0x1190180">
+  <item nodeId="node-0x171dd50">
     <command xml:space="preserve">ex estan</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -556,10 +556,10 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1190300"/>
+      <child nodeId="node-0x171ded0"/>
     </children>
   </item>
-  <item nodeId="node-0x1190300">
+  <item nodeId="node-0x171ded0">
     <command xml:space="preserve">ex estanteria</command>
     <result xml:space="preserve">Llena de libros.
 
@@ -570,10 +570,10 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1190480"/>
+      <child nodeId="node-0x175b170"/>
     </children>
   </item>
-  <item nodeId="node-0x1190480">
+  <item nodeId="node-0x175b170">
     <command xml:space="preserve">ex puerta</command>
     <result xml:space="preserve">Es la puerta que da al pasillo, pero parece cerrada.
 
@@ -584,7 +584,7 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x1190600">
+  <item nodeId="node-0x175b2f0">
     <command xml:space="preserve"></command>
     <result xml:space="preserve">¿Perdón?
 
@@ -595,16 +595,16 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1190780"/>
-      <child nodeId="node-0x1233180"/>
-      <child nodeId="node-0x1233300"/>
-      <child nodeId="node-0x1233900"/>
-      <child nodeId="node-0x1233f00"/>
-      <child nodeId="node-0x12741c0"/>
-      <child nodeId="node-0x1274ac0"/>
+      <child nodeId="node-0x175b470"/>
+      <child nodeId="node-0x14c5d10"/>
+      <child nodeId="node-0x14c5e90"/>
+      <child nodeId="node-0x18045c0"/>
+      <child nodeId="node-0x1804bc0"/>
+      <child nodeId="node-0x1804d40"/>
+      <child nodeId="node-0x184a770"/>
     </children>
   </item>
-  <item nodeId="node-0x1190780">
+  <item nodeId="node-0x175b470">
     <command xml:space="preserve"></command>
     <result xml:space="preserve">¿Perdón?
 
@@ -615,12 +615,12 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1190900"/>
-      <child nodeId="node-0x1190a80"/>
-      <child nodeId="node-0x11ce5b0"/>
+      <child nodeId="node-0x175b5f0"/>
+      <child nodeId="node-0x175b770"/>
+      <child nodeId="node-0x1786340"/>
     </children>
   </item>
-  <item nodeId="node-0x1190900">
+  <item nodeId="node-0x175b5f0">
     <command xml:space="preserve">mirar</command>
     <result xml:space="preserve">Todo sigue igual que la última vez que estuve aquí
 &gt;</result>
@@ -630,7 +630,7 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x1190a80">
+  <item nodeId="node-0x175b770">
     <command xml:space="preserve">ex escri</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -641,10 +641,10 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1190c00"/>
+      <child nodeId="node-0x175b8f0"/>
     </children>
   </item>
-  <item nodeId="node-0x1190c00">
+  <item nodeId="node-0x175b8f0">
     <command xml:space="preserve">ex escritorio</command>
     <result xml:space="preserve">La de horas que habré echado ahí estudiando.
 
@@ -655,10 +655,10 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1190d80"/>
+      <child nodeId="node-0x175ba70"/>
     </children>
   </item>
-  <item nodeId="node-0x1190d80">
+  <item nodeId="node-0x175ba70">
     <command xml:space="preserve">ex escritorio</command>
     <result xml:space="preserve">Un momento, ese cajón estaba ahí?
 
@@ -669,10 +669,10 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1190f00"/>
+      <child nodeId="node-0x175bbf0"/>
     </children>
   </item>
-  <item nodeId="node-0x1190f00">
+  <item nodeId="node-0x175bbf0">
     <command xml:space="preserve">ex cajon</command>
     <result xml:space="preserve">No recuerdo que mi escritorio tuviera ese cajón. Además parece cerrado, pero no veo ninguna cerradura.
 
@@ -683,10 +683,10 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x11ce130"/>
+      <child nodeId="node-0x175bd70"/>
     </children>
   </item>
-  <item nodeId="node-0x11ce130">
+  <item nodeId="node-0x175bd70">
     <command xml:space="preserve">open cajon</command>
     <result xml:space="preserve">No conozco ese verbo.
 
@@ -697,10 +697,10 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x11ce2b0"/>
+      <child nodeId="node-0x175bef0"/>
     </children>
   </item>
-  <item nodeId="node-0x11ce2b0">
+  <item nodeId="node-0x175bef0">
     <command xml:space="preserve">abrir cajon</command>
     <result xml:space="preserve">Está cerrado con llave.
 
@@ -711,10 +711,10 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x11ce430"/>
+      <child nodeId="node-0x17861c0"/>
     </children>
   </item>
-  <item nodeId="node-0x11ce430">
+  <item nodeId="node-0x17861c0">
     <command xml:space="preserve">atacar escritorio</command>
     <result xml:space="preserve">La violencia no es la solución.
 
@@ -725,7 +725,7 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x11ce5b0">
+  <item nodeId="node-0x1786340">
     <command xml:space="preserve"></command>
     <result xml:space="preserve">¿Perdón?
 
@@ -736,11 +736,11 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x11ce730"/>
-      <child nodeId="node-0x11f6300"/>
+      <child nodeId="node-0x17864c0"/>
+      <child nodeId="node-0x1786f40"/>
     </children>
   </item>
-  <item nodeId="node-0x11ce730">
+  <item nodeId="node-0x17864c0">
     <command xml:space="preserve">ex escri</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -751,10 +751,10 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x11ce8b0"/>
+      <child nodeId="node-0x1786640"/>
     </children>
   </item>
-  <item nodeId="node-0x11ce8b0">
+  <item nodeId="node-0x1786640">
     <command xml:space="preserve">ex escritorio</command>
     <result xml:space="preserve">La de horas que habré echado ahí estudiando.
 
@@ -765,10 +765,10 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x11cea30"/>
+      <child nodeId="node-0x17867c0"/>
     </children>
   </item>
-  <item nodeId="node-0x11cea30">
+  <item nodeId="node-0x17867c0">
     <command xml:space="preserve">ex escritorio</command>
     <result xml:space="preserve">Un momento, ese cajón estaba ahí?
 
@@ -779,10 +779,10 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x11cebb0"/>
+      <child nodeId="node-0x1786940"/>
     </children>
   </item>
-  <item nodeId="node-0x11cebb0">
+  <item nodeId="node-0x1786940">
     <command xml:space="preserve">ex cajon</command>
     <result xml:space="preserve">No recuerdo que mi escritorio tuviera ese cajón. Además parece cerrado, pero no veo ninguna cerradura.
 
@@ -793,10 +793,10 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x11ced30"/>
+      <child nodeId="node-0x1786ac0"/>
     </children>
   </item>
-  <item nodeId="node-0x11ced30">
+  <item nodeId="node-0x1786ac0">
     <command xml:space="preserve">open cajon</command>
     <result xml:space="preserve">No conozco ese verbo.
 
@@ -807,10 +807,10 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x11ceeb0"/>
+      <child nodeId="node-0x1786c40"/>
     </children>
   </item>
-  <item nodeId="node-0x11ceeb0">
+  <item nodeId="node-0x1786c40">
     <command xml:space="preserve">abrir cajon</command>
     <result xml:space="preserve">Está cerrado con llave.
 
@@ -821,10 +821,10 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x11f6180"/>
+      <child nodeId="node-0x1786dc0"/>
     </children>
   </item>
-  <item nodeId="node-0x11f6180">
+  <item nodeId="node-0x1786dc0">
     <command xml:space="preserve">atacar escritorio</command>
     <result xml:space="preserve">La violencia no es la solución.
 
@@ -835,7 +835,7 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x11f6300">
+  <item nodeId="node-0x1786f40">
     <command xml:space="preserve"></command>
     <result xml:space="preserve">¿Perdón?
 
@@ -846,10 +846,10 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x11f6480"/>
+      <child nodeId="node-0x14c5110"/>
     </children>
   </item>
-  <item nodeId="node-0x11f6480">
+  <item nodeId="node-0x14c5110">
     <command xml:space="preserve">ex escri</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -860,10 +860,10 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x11f6600"/>
+      <child nodeId="node-0x14c5290"/>
     </children>
   </item>
-  <item nodeId="node-0x11f6600">
+  <item nodeId="node-0x14c5290">
     <command xml:space="preserve">ex escritorio</command>
     <result xml:space="preserve">La de horas que habré echado ahí estudiando.
 
@@ -874,10 +874,10 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x11f6780"/>
+      <child nodeId="node-0x14c5410"/>
     </children>
   </item>
-  <item nodeId="node-0x11f6780">
+  <item nodeId="node-0x14c5410">
     <command xml:space="preserve">ex escritorio</command>
     <result xml:space="preserve">Un momento, ese cajón estaba ahí?
 
@@ -888,10 +888,10 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x11f6900"/>
+      <child nodeId="node-0x14c5590"/>
     </children>
   </item>
-  <item nodeId="node-0x11f6900">
+  <item nodeId="node-0x14c5590">
     <command xml:space="preserve">ex cajon</command>
     <result xml:space="preserve">No recuerdo que mi escritorio tuviera ese cajón. Además parece cerrado, pero no veo ninguna cerradura.
 
@@ -902,10 +902,10 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x11f6a80"/>
+      <child nodeId="node-0x14c5710"/>
     </children>
   </item>
-  <item nodeId="node-0x11f6a80">
+  <item nodeId="node-0x14c5710">
     <command xml:space="preserve">open cajon</command>
     <result xml:space="preserve">No conozco ese verbo.
 
@@ -916,10 +916,10 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x11f6c00"/>
+      <child nodeId="node-0x14c5890"/>
     </children>
   </item>
-  <item nodeId="node-0x11f6c00">
+  <item nodeId="node-0x14c5890">
     <command xml:space="preserve">abrir cajon</command>
     <result xml:space="preserve">Está cerrado con llave.
 
@@ -930,10 +930,10 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x11f6d80"/>
+      <child nodeId="node-0x14c5a10"/>
     </children>
   </item>
-  <item nodeId="node-0x11f6d80">
+  <item nodeId="node-0x14c5a10">
     <command xml:space="preserve">atacar escritorio</command>
     <result xml:space="preserve">Con la desesperación de no poder abrir nada de lo que tienes a tu alcance, pegas tal puñetazo sobre el escritorio que el cajón se abre ligeramente.
 
@@ -944,10 +944,10 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x11f6f00"/>
+      <child nodeId="node-0x14c5b90"/>
     </children>
   </item>
-  <item nodeId="node-0x11f6f00">
+  <item nodeId="node-0x14c5b90">
     <command xml:space="preserve">ex cajon</command>
     <result xml:space="preserve">No recuerdo que mi escritorio tuviera ese cajón. Además parece cerrado, pero no veo ninguna cerradura.
 
@@ -958,7 +958,7 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x1233180">
+  <item nodeId="node-0x14c5d10">
     <command xml:space="preserve">mirar</command>
     <result xml:space="preserve">Habitacion
 
@@ -969,7 +969,7 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x1233300">
+  <item nodeId="node-0x14c5e90">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">(abriendo primero la puerta)
 Está cerrada con llave.
@@ -981,10 +981,10 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1233480"/>
+      <child nodeId="node-0x1804140"/>
     </children>
   </item>
-  <item nodeId="node-0x1233480">
+  <item nodeId="node-0x1804140">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">(abriendo primero la puerta)
 Está cerrada con llave.
@@ -996,10 +996,10 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1233600"/>
+      <child nodeId="node-0x18042c0"/>
     </children>
   </item>
-  <item nodeId="node-0x1233600">
+  <item nodeId="node-0x18042c0">
     <command xml:space="preserve">mirar</command>
     <result xml:space="preserve">Mi antigua habitación
 El escritorio, la cama, todo sigue igual.
@@ -1013,10 +1013,10 @@ Puedes ver una puerta.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1233780"/>
+      <child nodeId="node-0x1804440"/>
     </children>
   </item>
-  <item nodeId="node-0x1233780">
+  <item nodeId="node-0x1804440">
     <command xml:space="preserve">abrir puerta</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -1027,7 +1027,7 @@ Puedes ver una puerta.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x1233900">
+  <item nodeId="node-0x18045c0">
     <command xml:space="preserve">ex puerta</command>
     <result xml:space="preserve">Es la puerta que da al pasillo, pero está cerrada ¿?
 
@@ -1038,10 +1038,10 @@ Puedes ver una puerta.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1233a80"/>
+      <child nodeId="node-0x1804740"/>
     </children>
   </item>
-  <item nodeId="node-0x1233a80">
+  <item nodeId="node-0x1804740">
     <command xml:space="preserve">ex escritorio</command>
     <result xml:space="preserve">blublu
 &gt;</result>
@@ -1051,10 +1051,10 @@ Puedes ver una puerta.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1233c00"/>
+      <child nodeId="node-0x18048c0"/>
     </children>
   </item>
-  <item nodeId="node-0x1233c00">
+  <item nodeId="node-0x18048c0">
     <command xml:space="preserve">ex puerta</command>
     <result xml:space="preserve">Es la puerta que da al pasillo, pero está cerrada ¿?
 
@@ -1065,10 +1065,10 @@ Puedes ver una puerta.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1233d80"/>
+      <child nodeId="node-0x1804a40"/>
     </children>
   </item>
-  <item nodeId="node-0x1233d80">
+  <item nodeId="node-0x1804a40">
     <command xml:space="preserve">ex escritorio</command>
     <result xml:space="preserve">blublu
 &gt;</result>
@@ -1078,7 +1078,7 @@ Puedes ver una puerta.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x1233f00">
+  <item nodeId="node-0x1804bc0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">(abriendo primero la tu puerta)
 
@@ -1092,7 +1092,7 @@ Puedes ver una tu puerta y una puerta de Diego.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x12741c0">
+  <item nodeId="node-0x1804d40">
     <command xml:space="preserve">ex escri</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -1103,10 +1103,10 @@ Puedes ver una tu puerta y una puerta de Diego.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1274340"/>
+      <child nodeId="node-0x1804ec0"/>
     </children>
   </item>
-  <item nodeId="node-0x1274340">
+  <item nodeId="node-0x1804ec0">
     <command xml:space="preserve">ex escritorio</command>
     <result xml:space="preserve">La de horas que habré echado ahí estudiando.
 
@@ -1117,10 +1117,10 @@ Puedes ver una tu puerta y una puerta de Diego.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x12744c0"/>
+      <child nodeId="node-0x184a170"/>
     </children>
   </item>
-  <item nodeId="node-0x12744c0">
+  <item nodeId="node-0x184a170">
     <command xml:space="preserve">ex escritorio</command>
     <result xml:space="preserve">Un momento, ese cajón estaba ahí?
 
@@ -1131,10 +1131,10 @@ Puedes ver una tu puerta y una puerta de Diego.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1274640"/>
+      <child nodeId="node-0x184a2f0"/>
     </children>
   </item>
-  <item nodeId="node-0x1274640">
+  <item nodeId="node-0x184a2f0">
     <command xml:space="preserve">ex cajon</command>
     <result xml:space="preserve">No recuerdo que mi escritorio tuviera ese cajón. Además parece cerrado, pero no veo ninguna cerradura.
 
@@ -1145,10 +1145,10 @@ Puedes ver una tu puerta y una puerta de Diego.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x12747c0"/>
+      <child nodeId="node-0x184a470"/>
     </children>
   </item>
-  <item nodeId="node-0x12747c0">
+  <item nodeId="node-0x184a470">
     <command xml:space="preserve">open cajon</command>
     <result xml:space="preserve">No conozco ese verbo.
 
@@ -1159,10 +1159,10 @@ Puedes ver una tu puerta y una puerta de Diego.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1274940"/>
+      <child nodeId="node-0x184a5f0"/>
     </children>
   </item>
-  <item nodeId="node-0x1274940">
+  <item nodeId="node-0x184a5f0">
     <command xml:space="preserve">abrir cajon</command>
     <result xml:space="preserve">Está cerrado con llave.
 
@@ -1173,7 +1173,7 @@ Puedes ver una tu puerta y una puerta de Diego.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x1274ac0">
+  <item nodeId="node-0x184a770">
     <command xml:space="preserve">atacar escritorio</command>
     <result xml:space="preserve">Con la desesperación de no poder abrir nada de lo que tienes a tu alcance, pegas tal puñetazo sobre el escritorio que el cajón se abre ligeramente.
 
@@ -1184,10 +1184,10 @@ Puedes ver una tu puerta y una puerta de Diego.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1274c40"/>
+      <child nodeId="node-0x184a8f0"/>
     </children>
   </item>
-  <item nodeId="node-0x1274c40">
+  <item nodeId="node-0x184a8f0">
     <command xml:space="preserve">ex cajon</command>
     <result xml:space="preserve">Abres un poco más el cajón y encuentras una llave oxidada al fondo.
 
@@ -1200,10 +1200,10 @@ En el cajon ves un llave oxidada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1274dc0"/>
+      <child nodeId="node-0x184aa70"/>
     </children>
   </item>
-  <item nodeId="node-0x1274dc0">
+  <item nodeId="node-0x184aa70">
     <command xml:space="preserve">abrir puerta</command>
     <result xml:space="preserve">Está cerrada con llave.
 
@@ -1214,10 +1214,10 @@ En el cajon ves un llave oxidada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1274f40"/>
+      <child nodeId="node-0x184abf0"/>
     </children>
   </item>
-  <item nodeId="node-0x1274f40">
+  <item nodeId="node-0x184abf0">
     <command xml:space="preserve">coger llave oxidad</command>
     <result xml:space="preserve">Intenta de nuevo, porque sólo te pude entender: coger el llave oxidada.
 
@@ -1228,10 +1228,10 @@ En el cajon ves un llave oxidada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xec6100"/>
+      <child nodeId="node-0x184ad70"/>
     </children>
   </item>
-  <item nodeId="node-0xec6100">
+  <item nodeId="node-0x184ad70">
     <command xml:space="preserve">coger llave oxidada</command>
     <result xml:space="preserve">Cogido.
 
@@ -1242,10 +1242,10 @@ En el cajon ves un llave oxidada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xec6280"/>
+      <child nodeId="node-0x184aef0"/>
     </children>
   </item>
-  <item nodeId="node-0xec6280">
+  <item nodeId="node-0x184aef0">
     <command xml:space="preserve">abrir puerta</command>
     <result xml:space="preserve">Está cerrada con llave.
 
@@ -1256,10 +1256,10 @@ En el cajon ves un llave oxidada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xec6400"/>
+      <child nodeId="node-0x1878180"/>
     </children>
   </item>
-  <item nodeId="node-0xec6400">
+  <item nodeId="node-0x1878180">
     <command xml:space="preserve">abrir puerta con llave oxidada</command>
     <result xml:space="preserve"> Quitas el cerrojo a la puerta marrón.
 
@@ -1270,7 +1270,7 @@ En el cajon ves un llave oxidada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xec6580">
+  <item nodeId="node-0x1878300">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">No puedes ir por ahí.
 
@@ -1281,11 +1281,11 @@ En el cajon ves un llave oxidada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xec6700"/>
-      <child nodeId="node-0xec6e80"/>
+      <child nodeId="node-0x1878480"/>
+      <child nodeId="node-0x1878c00"/>
     </children>
   </item>
-  <item nodeId="node-0xec6700">
+  <item nodeId="node-0x1878480">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Mi antigua habitación
@@ -1298,10 +1298,10 @@ Todo sigue igual que la última vez que estuve aquí.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xec6880"/>
+      <child nodeId="node-0x1878600"/>
     </children>
   </item>
-  <item nodeId="node-0xec6880">
+  <item nodeId="node-0x1878600">
     <command xml:space="preserve">yo</command>
     <result xml:space="preserve">No conozco ese verbo.
 
@@ -1312,10 +1312,10 @@ Todo sigue igual que la última vez que estuve aquí.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xec6a00"/>
+      <child nodeId="node-0x1878780"/>
     </children>
   </item>
-  <item nodeId="node-0xec6a00">
+  <item nodeId="node-0x1878780">
     <command xml:space="preserve">delante</command>
     <result xml:space="preserve">No conozco ese verbo.
 
@@ -1326,10 +1326,10 @@ Todo sigue igual que la última vez que estuve aquí.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xec6b80"/>
+      <child nodeId="node-0x1878900"/>
     </children>
   </item>
-  <item nodeId="node-0xec6b80">
+  <item nodeId="node-0x1878900">
     <command xml:space="preserve">adelante</command>
     <result xml:space="preserve">No conozco ese verbo.
 
@@ -1340,10 +1340,10 @@ Todo sigue igual que la última vez que estuve aquí.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xec6d00"/>
+      <child nodeId="node-0x1878a80"/>
     </children>
   </item>
-  <item nodeId="node-0xec6d00">
+  <item nodeId="node-0x1878a80">
     <command xml:space="preserve">version</command>
     <result xml:space="preserve">TBD
 &quot;TBD.&quot; por Lo Purpura
@@ -1361,7 +1361,7 @@ Spanish Language version 1/170804 by Sebastian Arg (basada en InformATE! de Zak,
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xec6e80">
+  <item nodeId="node-0x1878c00">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Puerta
@@ -1373,10 +1373,10 @@ Puerta
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x12e8140"/>
+      <child nodeId="node-0x1878d80"/>
     </children>
   </item>
-  <item nodeId="node-0x12e8140">
+  <item nodeId="node-0x1878d80">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Pasillo
@@ -1389,10 +1389,10 @@ Puedes ver una puerta de Diego.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x12e82c0"/>
+      <child nodeId="node-0x1878f00"/>
     </children>
   </item>
-  <item nodeId="node-0x12e82c0">
+  <item nodeId="node-0x1878f00">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Puerta
@@ -1404,10 +1404,10 @@ Puerta
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x12e8440"/>
+      <child nodeId="node-0x18b4180"/>
     </children>
   </item>
-  <item nodeId="node-0x12e8440">
+  <item nodeId="node-0x18b4180">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Mi antigua habitación
@@ -1420,10 +1420,10 @@ El escritorio, la cama, la pintura de la pared... todo sigue igual.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x12e85c0"/>
+      <child nodeId="node-0x18b4300"/>
     </children>
   </item>
-  <item nodeId="node-0x12e85c0">
+  <item nodeId="node-0x18b4300">
     <command xml:space="preserve">atravesar puerta</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -1434,10 +1434,10 @@ El escritorio, la cama, la pintura de la pared... todo sigue igual.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x12e8740"/>
+      <child nodeId="node-0x18b4480"/>
     </children>
   </item>
-  <item nodeId="node-0x12e8740">
+  <item nodeId="node-0x18b4480">
     <command xml:space="preserve">cruzar puerta de Miguel</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -1448,10 +1448,10 @@ El escritorio, la cama, la pintura de la pared... todo sigue igual.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x12e88c0"/>
+      <child nodeId="node-0x18b4600"/>
     </children>
   </item>
-  <item nodeId="node-0x12e88c0">
+  <item nodeId="node-0x18b4600">
     <command xml:space="preserve">atravesar puerta de Miguel</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -1462,7 +1462,7 @@ El escritorio, la cama, la pintura de la pared... todo sigue igual.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x12e8a40">
+  <item nodeId="node-0x18b4780">
     <command xml:space="preserve">abrir puerta</command>
     <result xml:space="preserve">Está cerrada con llave.
 
@@ -1473,11 +1473,11 @@ El escritorio, la cama, la pintura de la pared... todo sigue igual.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x12e8bc0"/>
-      <child nodeId="node-0x13258e0"/>
+      <child nodeId="node-0x18b4900"/>
+      <child nodeId="node-0x18dd5a0"/>
     </children>
   </item>
-  <item nodeId="node-0x12e8bc0">
+  <item nodeId="node-0x18b4900">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">(abriendo primero la puerta)
 Está cerrada con llave.
@@ -1489,10 +1489,10 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x12e8d40"/>
+      <child nodeId="node-0x18b4a80"/>
     </children>
   </item>
-  <item nodeId="node-0x12e8d40">
+  <item nodeId="node-0x18b4a80">
     <command xml:space="preserve">abrir la pueta</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -1503,10 +1503,10 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x12e8ec0"/>
+      <child nodeId="node-0x18b4c00"/>
     </children>
   </item>
-  <item nodeId="node-0x12e8ec0">
+  <item nodeId="node-0x18b4c00">
     <command xml:space="preserve">abrir la puerta</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -1517,10 +1517,10 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1325160"/>
+      <child nodeId="node-0x18b4d80"/>
     </children>
   </item>
-  <item nodeId="node-0x1325160">
+  <item nodeId="node-0x18b4d80">
     <command xml:space="preserve">ex puerta</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -1531,10 +1531,10 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x13252e0"/>
+      <child nodeId="node-0x18b4f00"/>
     </children>
   </item>
-  <item nodeId="node-0x13252e0">
+  <item nodeId="node-0x18b4f00">
     <command xml:space="preserve">abre la puerta</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -1545,10 +1545,10 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1325460"/>
+      <child nodeId="node-0x18dd120"/>
     </children>
   </item>
-  <item nodeId="node-0x1325460">
+  <item nodeId="node-0x18dd120">
     <command xml:space="preserve">abrir la puerta</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -1559,10 +1559,10 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x13255e0"/>
+      <child nodeId="node-0x18dd2a0"/>
     </children>
   </item>
-  <item nodeId="node-0x13255e0">
+  <item nodeId="node-0x18dd2a0">
     <command xml:space="preserve">abrir puerta</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -1573,10 +1573,10 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1325760"/>
+      <child nodeId="node-0x18dd420"/>
     </children>
   </item>
-  <item nodeId="node-0x1325760">
+  <item nodeId="node-0x18dd420">
     <command xml:space="preserve">open puerta</command>
     <result xml:space="preserve">No conozco ese verbo.
 
@@ -1587,7 +1587,7 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x13258e0">
+  <item nodeId="node-0x18dd5a0">
     <command xml:space="preserve">mirar</command>
     <result xml:space="preserve">Mi antigua habitación
 El escritorio, la cama, la pintura de la pared... todo sigue igual.
@@ -1601,10 +1601,10 @@ Puedes ver una puerta.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1325a60"/>
+      <child nodeId="node-0x18dd720"/>
     </children>
   </item>
-  <item nodeId="node-0x1325a60">
+  <item nodeId="node-0x18dd720">
     <command xml:space="preserve">ex escritorio</command>
     <result xml:space="preserve">¿Ese cajón estaba ahí antes?.
 
@@ -1615,10 +1615,10 @@ Puedes ver una puerta.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1325be0"/>
+      <child nodeId="node-0x18dd8a0"/>
     </children>
   </item>
-  <item nodeId="node-0x1325be0">
+  <item nodeId="node-0x18dd8a0">
     <command xml:space="preserve">ex cama</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -1629,7 +1629,7 @@ Puedes ver una puerta.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x1325d60">
+  <item nodeId="node-0x18dda20">
     <command xml:space="preserve">ex puerta</command>
     <result xml:space="preserve">puerta de tu cuarto
 
@@ -1640,16 +1640,16 @@ Puedes ver una puerta.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x1325ee0"/>
-      <child nodeId="node-0x134ec10"/>
-      <child nodeId="node-0x134ef10"/>
-      <child nodeId="node-0x138b110"/>
-      <child nodeId="node-0x138b290"/>
-      <child nodeId="node-0x138b410"/>
-      <child nodeId="node-0x138b590"/>
+      <child nodeId="node-0x18ddba0"/>
+      <child nodeId="node-0x1919930"/>
+      <child nodeId="node-0x1919c30"/>
+      <child nodeId="node-0x1919db0"/>
+      <child nodeId="node-0x1919f30"/>
+      <child nodeId="node-0x1944190"/>
+      <child nodeId="node-0x1944310"/>
     </children>
   </item>
-  <item nodeId="node-0x1325ee0">
+  <item nodeId="node-0x18ddba0">
     <command xml:space="preserve">ex la puerta</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -1660,10 +1660,10 @@ Puedes ver una puerta.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x134e190"/>
+      <child nodeId="node-0x18ddd20"/>
     </children>
   </item>
-  <item nodeId="node-0x134e190">
+  <item nodeId="node-0x18ddd20">
     <command xml:space="preserve">ex una puerta</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -1674,10 +1674,10 @@ Puedes ver una puerta.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x134e310"/>
+      <child nodeId="node-0x18ddea0"/>
     </children>
   </item>
-  <item nodeId="node-0x134e310">
+  <item nodeId="node-0x18ddea0">
     <command xml:space="preserve">examinar</command>
     <result xml:space="preserve">(la puerta)
 Es la puerta que da al pasillo, pero parece cerrada.
@@ -1689,10 +1689,10 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x134e490"/>
+      <child nodeId="node-0x19191b0"/>
     </children>
   </item>
-  <item nodeId="node-0x134e490">
+  <item nodeId="node-0x19191b0">
     <command xml:space="preserve">examinar puerta</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -1703,10 +1703,10 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x134e610"/>
+      <child nodeId="node-0x1919330"/>
     </children>
   </item>
-  <item nodeId="node-0x134e610">
+  <item nodeId="node-0x1919330">
     <command xml:space="preserve">mirar</command>
     <result xml:space="preserve">Mi antigua habitación
 El escritorio, la cama, todo sigue igual.
@@ -1720,10 +1720,10 @@ Puedes ver una puerta.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x134e790"/>
+      <child nodeId="node-0x19194b0"/>
     </children>
   </item>
-  <item nodeId="node-0x134e790">
+  <item nodeId="node-0x19194b0">
     <command xml:space="preserve">mirar la puerta</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -1734,10 +1734,10 @@ Puedes ver una puerta.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x134e910"/>
+      <child nodeId="node-0x1919630"/>
     </children>
   </item>
-  <item nodeId="node-0x134e910">
+  <item nodeId="node-0x1919630">
     <command xml:space="preserve">examinar</command>
     <result xml:space="preserve">(la puerta)
 Es la puerta que da al pasillo, pero parece cerrada.
@@ -1749,10 +1749,10 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x134ea90"/>
+      <child nodeId="node-0x19197b0"/>
     </children>
   </item>
-  <item nodeId="node-0x134ea90">
+  <item nodeId="node-0x19197b0">
     <command xml:space="preserve">examinar la puerta</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -1763,7 +1763,7 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x134ec10">
+  <item nodeId="node-0x1919930">
     <command xml:space="preserve">ex</command>
     <result xml:space="preserve">(la puerta)
 Es la puerta que da al pasillo, pero parece cerrada.
@@ -1775,10 +1775,10 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x134ed90"/>
+      <child nodeId="node-0x1919ab0"/>
     </children>
   </item>
-  <item nodeId="node-0x134ed90">
+  <item nodeId="node-0x1919ab0">
     <command xml:space="preserve">ex estanteria</command>
     <result xml:space="preserve">Llena de libros.
 
@@ -1789,7 +1789,7 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x134ef10">
+  <item nodeId="node-0x1919c30">
     <command xml:space="preserve">ex estanteria</command>
     <result xml:space="preserve">Llena de libros.
 
@@ -1800,7 +1800,7 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x138b110">
+  <item nodeId="node-0x1919db0">
     <command xml:space="preserve">ex puerta1</command>
     <result xml:space="preserve">Es la puerta que da al pasillo, pero está cerrada ¿?
 
@@ -1811,7 +1811,7 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x138b290">
+  <item nodeId="node-0x1919f30">
     <command xml:space="preserve">ex puerta de Miguel</command>
     <result xml:space="preserve">Es la puerta que da al pasillo, pero está cerrada ¿?
 
@@ -1822,7 +1822,7 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x138b410">
+  <item nodeId="node-0x1944190">
     <command xml:space="preserve">ex puerta jaja</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -1833,7 +1833,7 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x138b590">
+  <item nodeId="node-0x1944310">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">(abriendo primero la puerta de tu cuarto)
 Está cerrada con llave.
@@ -1845,7 +1845,7 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x138b710">
+  <item nodeId="node-0x1944490">
     <command xml:space="preserve">examinar</command>
     <result xml:space="preserve">(la puerta)
 Es la puerta que da al pasillo, pero parece cerrada.
@@ -1857,7 +1857,7 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x138b890">
+  <item nodeId="node-0x1944610">
     <command xml:space="preserve">ex</command>
     <result xml:space="preserve">(la puerta)
 Es la puerta que da al pasillo, pero parece cerrada.
@@ -1869,11 +1869,11 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x138ba10"/>
-      <child nodeId="node-0x13b5130"/>
+      <child nodeId="node-0x1944790"/>
+      <child nodeId="node-0x1944d90"/>
     </children>
   </item>
-  <item nodeId="node-0x138ba10">
+  <item nodeId="node-0x1944790">
     <command xml:space="preserve">ex estanteria</command>
     <result xml:space="preserve">Llena de libros.
 
@@ -1884,10 +1884,10 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x138bb90"/>
+      <child nodeId="node-0x1944910"/>
     </children>
   </item>
-  <item nodeId="node-0x138bb90">
+  <item nodeId="node-0x1944910">
     <command xml:space="preserve">ex puerta</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -1898,10 +1898,10 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x138bd10"/>
+      <child nodeId="node-0x1944a90"/>
     </children>
   </item>
-  <item nodeId="node-0x138bd10">
+  <item nodeId="node-0x1944a90">
     <command xml:space="preserve">es HabMDoor</command>
     <result xml:space="preserve">No conozco ese verbo.
 
@@ -1912,10 +1912,10 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x138be90"/>
+      <child nodeId="node-0x1944c10"/>
     </children>
   </item>
-  <item nodeId="node-0x138be90">
+  <item nodeId="node-0x1944c10">
     <command xml:space="preserve">ex HabMDoor</command>
     <result xml:space="preserve">Es la puerta que da al pasillo, pero parece cerrada.
 
@@ -1926,7 +1926,7 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x13b5130">
+  <item nodeId="node-0x1944d90">
     <command xml:space="preserve">ex puerta</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -1937,10 +1937,10 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x13b52b0"/>
+      <child nodeId="node-0x1944f10"/>
     </children>
   </item>
-  <item nodeId="node-0x13b52b0">
+  <item nodeId="node-0x1944f10">
     <command xml:space="preserve">ex la puerta</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -1951,10 +1951,10 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x13b5430"/>
+      <child nodeId="node-0x1980150"/>
     </children>
   </item>
-  <item nodeId="node-0x13b5430">
+  <item nodeId="node-0x1980150">
     <command xml:space="preserve">ex habmdoor</command>
     <result xml:space="preserve">Es la puerta que da al pasillo, pero parece cerrada.
 
@@ -1965,7 +1965,7 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x13b55b0">
+  <item nodeId="node-0x19802d0">
     <command xml:space="preserve">ex escritorio</command>
     <result xml:space="preserve">La de horas que habré echado ahí.
 
@@ -1976,13 +1976,13 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x13b5730"/>
-      <child nodeId="node-0x13b5d30"/>
-      <child nodeId="node-0x13f1420"/>
-      <child nodeId="node-0x13f18a0"/>
+      <child nodeId="node-0x1980450"/>
+      <child nodeId="node-0x1980a50"/>
+      <child nodeId="node-0x19aa120"/>
+      <child nodeId="node-0x19aa5a0"/>
     </children>
   </item>
-  <item nodeId="node-0x13b5730">
+  <item nodeId="node-0x1980450">
     <command xml:space="preserve">ex puerta</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -1993,10 +1993,10 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x13b58b0"/>
+      <child nodeId="node-0x19805d0"/>
     </children>
   </item>
-  <item nodeId="node-0x13b58b0">
+  <item nodeId="node-0x19805d0">
     <command xml:space="preserve">ex puerta 1</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -2007,10 +2007,10 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x13b5a30"/>
+      <child nodeId="node-0x1980750"/>
     </children>
   </item>
-  <item nodeId="node-0x13b5a30">
+  <item nodeId="node-0x1980750">
     <command xml:space="preserve">ex puerta1</command>
     <result xml:space="preserve">Es la puerta que da al pasillo, pero está cerrada ¿?
 
@@ -2021,10 +2021,10 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x13b5bb0"/>
+      <child nodeId="node-0x19808d0"/>
     </children>
   </item>
-  <item nodeId="node-0x13b5bb0">
+  <item nodeId="node-0x19808d0">
     <command xml:space="preserve">ex escritorio</command>
     <result xml:space="preserve">
 &gt;</result>
@@ -2034,7 +2034,7 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x13b5d30">
+  <item nodeId="node-0x1980a50">
     <command xml:space="preserve">ex puerta1</command>
     <result xml:space="preserve">Es la puerta que da al pasillo, pero está cerrada ¿?
 
@@ -2045,10 +2045,10 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x13b5eb0"/>
+      <child nodeId="node-0x1980bd0"/>
     </children>
   </item>
-  <item nodeId="node-0x13b5eb0">
+  <item nodeId="node-0x1980bd0">
     <command xml:space="preserve">ex escritorio</command>
     <result xml:space="preserve">kk
 &gt;</result>
@@ -2058,10 +2058,10 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x13f1120"/>
+      <child nodeId="node-0x1980d50"/>
     </children>
   </item>
-  <item nodeId="node-0x13f1120">
+  <item nodeId="node-0x1980d50">
     <command xml:space="preserve">ex escritorio</command>
     <result xml:space="preserve">kk
 &gt;</result>
@@ -2071,10 +2071,10 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x13f12a0"/>
+      <child nodeId="node-0x1980ed0"/>
     </children>
   </item>
-  <item nodeId="node-0x13f12a0">
+  <item nodeId="node-0x1980ed0">
     <command xml:space="preserve">ex escritorio</command>
     <result xml:space="preserve">kk
 &gt;</result>
@@ -2084,7 +2084,7 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x13f1420">
+  <item nodeId="node-0x19aa120">
     <command xml:space="preserve">ex peurta1</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -2095,10 +2095,10 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x13f15a0"/>
+      <child nodeId="node-0x19aa2a0"/>
     </children>
   </item>
-  <item nodeId="node-0x13f15a0">
+  <item nodeId="node-0x19aa2a0">
     <command xml:space="preserve">ex puerta1</command>
     <result xml:space="preserve">Es la puerta que da al pasillo, pero está cerrada ¿?
 
@@ -2109,10 +2109,10 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x13f1720"/>
+      <child nodeId="node-0x19aa420"/>
     </children>
   </item>
-  <item nodeId="node-0x13f1720">
+  <item nodeId="node-0x19aa420">
     <command xml:space="preserve">ex escritorio</command>
     <result xml:space="preserve">kk
 &gt;</result>
@@ -2122,7 +2122,7 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x13f18a0">
+  <item nodeId="node-0x19aa5a0">
     <command xml:space="preserve">ex escritorio</command>
     <result xml:space="preserve">Un momento, ese cajón estaba ahí?
 
@@ -2133,10 +2133,10 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x13f1a20"/>
+      <child nodeId="node-0x19aa720"/>
     </children>
   </item>
-  <item nodeId="node-0x13f1a20">
+  <item nodeId="node-0x19aa720">
     <command xml:space="preserve">ex escritorio</command>
     <result xml:space="preserve">Un momento, ese cajón estaba ahí?
 
@@ -2147,10 +2147,10 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x13f1ba0"/>
+      <child nodeId="node-0x19aa8a0"/>
     </children>
   </item>
-  <item nodeId="node-0x13f1ba0">
+  <item nodeId="node-0x19aa8a0">
     <command xml:space="preserve">ex escritorio</command>
     <result xml:space="preserve">Un momento, ese cajón estaba ahí?
 
@@ -2161,10 +2161,10 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x13f1d20"/>
+      <child nodeId="node-0x19aaa20"/>
     </children>
   </item>
-  <item nodeId="node-0x13f1d20">
+  <item nodeId="node-0x19aaa20">
     <command xml:space="preserve">ex escritorio</command>
     <result xml:space="preserve">Un momento, ese cajón estaba ahí?
 
@@ -2175,10 +2175,10 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x13f1ea0"/>
+      <child nodeId="node-0x19aaba0"/>
     </children>
   </item>
-  <item nodeId="node-0x13f1ea0">
+  <item nodeId="node-0x19aaba0">
     <command xml:space="preserve">ex escritorio</command>
     <result xml:space="preserve">Un momento, ese cajón estaba ahí?
 
@@ -2189,10 +2189,10 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x141a190"/>
+      <child nodeId="node-0x19aad20"/>
     </children>
   </item>
-  <item nodeId="node-0x141a190">
+  <item nodeId="node-0x19aad20">
     <command xml:space="preserve">ex puerta</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -2203,7 +2203,7 @@ Es la puerta que da al pasillo, pero parece cerrada.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x141a310">
+  <item nodeId="node-0x19aaea0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">(abriendo primero la puerta marrón)
 Está cerrada con llave.
@@ -2215,12 +2215,12 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x141a490"/>
-      <child nodeId="node-0x141a790"/>
-      <child nodeId="node-0x141a910"/>
+      <child nodeId="node-0x19e61b0"/>
+      <child nodeId="node-0x19e64b0"/>
+      <child nodeId="node-0x19e6630"/>
     </children>
   </item>
-  <item nodeId="node-0x141a490">
+  <item nodeId="node-0x19e61b0">
     <command xml:space="preserve">ex puerta</command>
     <result xml:space="preserve">No observas nada especial en la puerta de Diego.
 
@@ -2231,10 +2231,10 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x141a610"/>
+      <child nodeId="node-0x19e6330"/>
     </children>
   </item>
-  <item nodeId="node-0x141a610">
+  <item nodeId="node-0x19e6330">
     <command xml:space="preserve">ex la puerta de tu cuarto</command>
     <result xml:space="preserve">No observas nada especial en la puerta de tu cuarto.
 
@@ -2245,7 +2245,7 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x141a790">
+  <item nodeId="node-0x19e64b0">
     <command xml:space="preserve">ex puerta de tu cuarto</command>
     <result xml:space="preserve">jaja
 
@@ -2256,7 +2256,7 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x141a910">
+  <item nodeId="node-0x19e6630">
     <command xml:space="preserve">abrir puerta marron</command>
     <result xml:space="preserve">Está cerrada con llave.
 
@@ -2267,10 +2267,10 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x141aa90"/>
+      <child nodeId="node-0x19e67b0"/>
     </children>
   </item>
-  <item nodeId="node-0x141aa90">
+  <item nodeId="node-0x19e67b0">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Mi antigua habitación
 El escritorio, la cama, la pintura de la pared... todo sigue igual.
@@ -2284,10 +2284,10 @@ Puedes ver una puerta marrón.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x141ac10"/>
+      <child nodeId="node-0x19e6930"/>
     </children>
   </item>
-  <item nodeId="node-0x141ac10">
+  <item nodeId="node-0x19e6930">
     <command xml:space="preserve">ex</command>
     <result xml:space="preserve">(la puerta marrón)
 Es la puerta que da al pasillo.
@@ -2299,10 +2299,10 @@ Es la puerta que da al pasillo.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x141ad90"/>
+      <child nodeId="node-0x19e6ab0"/>
     </children>
   </item>
-  <item nodeId="node-0x141ad90">
+  <item nodeId="node-0x19e6ab0">
     <command xml:space="preserve">ex escritorio</command>
     <result xml:space="preserve">La de horas que habré echado ahí.
 
@@ -2313,10 +2313,10 @@ Es la puerta que da al pasillo.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x141af10"/>
+      <child nodeId="node-0x19e6c30"/>
     </children>
   </item>
-  <item nodeId="node-0x141af10">
+  <item nodeId="node-0x19e6c30">
     <command xml:space="preserve">ex escritorio</command>
     <result xml:space="preserve">Un momento, ese cajón estaba ahí?
 
@@ -2327,10 +2327,10 @@ Es la puerta que da al pasillo.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x145f130"/>
+      <child nodeId="node-0x19e6db0"/>
     </children>
   </item>
-  <item nodeId="node-0x145f130">
+  <item nodeId="node-0x19e6db0">
     <command xml:space="preserve">ex escritorio</command>
     <result xml:space="preserve">Un momento, ese cajón estaba ahí?
 
@@ -2341,10 +2341,10 @@ Es la puerta que da al pasillo.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x145f2b0"/>
+      <child nodeId="node-0x19e6f30"/>
     </children>
   </item>
-  <item nodeId="node-0x145f2b0">
+  <item nodeId="node-0x19e6f30">
     <command xml:space="preserve">abrir cajon</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -2355,7 +2355,7 @@ Es la puerta que da al pasillo.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x145f430">
+  <item nodeId="node-0x1a19180">
     <command xml:space="preserve">ex tu puerta</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -2366,10 +2366,10 @@ Es la puerta que da al pasillo.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x145f5b0"/>
+      <child nodeId="node-0x1a19300"/>
     </children>
   </item>
-  <item nodeId="node-0x145f5b0">
+  <item nodeId="node-0x1a19300">
     <command xml:space="preserve">ex mi puerta</command>
     <result xml:space="preserve">Es la puerta que da al pasillo, pero está cerrada ¿?
 
@@ -2380,10 +2380,10 @@ Es la puerta que da al pasillo.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x145f730"/>
+      <child nodeId="node-0x1a19480"/>
     </children>
   </item>
-  <item nodeId="node-0x145f730">
+  <item nodeId="node-0x1a19480">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">(abriendo primero tu puerta)
 
@@ -2397,7 +2397,7 @@ Puedes ver a tu puerta y una puerta de Diego.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x145f8b0">
+  <item nodeId="node-0x1a19600">
     <command xml:space="preserve">test me</command>
     <result xml:space="preserve">(Testing.)
 
@@ -2449,10 +2449,10 @@ Está cerrada con llave.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x145fa30"/>
+      <child nodeId="node-0x1a19780"/>
     </children>
   </item>
-  <item nodeId="node-0x145fa30">
+  <item nodeId="node-0x1a19780">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">(abriendo primero tu puerta)
 
@@ -2466,7 +2466,7 @@ Puedes ver a tu puerta y a la puerta de Diego.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x145fbb0">
+  <item nodeId="node-0x1a19900">
     <command xml:space="preserve">ex puerta </command>
     <result xml:space="preserve">Es la puerta que da al pasillo, pero está cerrada ¿?
 
@@ -2477,10 +2477,10 @@ Puedes ver a tu puerta y a la puerta de Diego.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x145fd30"/>
+      <child nodeId="node-0x1a19a80"/>
     </children>
   </item>
-  <item nodeId="node-0x145fd30">
+  <item nodeId="node-0x1a19a80">
     <command xml:space="preserve">look puerta</command>
     <result xml:space="preserve">Es la puerta que da al pasillo, pero está cerrada ¿?
 
@@ -2491,7 +2491,7 @@ Puedes ver a tu puerta y a la puerta de Diego.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x145feb0">
+  <item nodeId="node-0x1a19c00">
     <command xml:space="preserve">ex puerta de mi habitacion\303\247</command>
     <result xml:space="preserve">Intenta de nuevo, porque sólo te pude entender: examinar la puerta de tu habitación.
 
@@ -2502,10 +2502,10 @@ Puedes ver a tu puerta y a la puerta de Diego.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x148a120"/>
+      <child nodeId="node-0x1a19d80"/>
     </children>
   </item>
-  <item nodeId="node-0x148a120">
+  <item nodeId="node-0x1a19d80">
     <command xml:space="preserve">ex la puerta de mi habitacion</command>
     <result xml:space="preserve">Intenta de nuevo, porque sólo te pude entender: examinar la puerta de tu habitación.
 
@@ -2516,10 +2516,10 @@ Puedes ver a tu puerta y a la puerta de Diego.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x148a2a0"/>
+      <child nodeId="node-0x1a19f00"/>
     </children>
   </item>
-  <item nodeId="node-0x148a2a0">
+  <item nodeId="node-0x1a19f00">
     <command xml:space="preserve">examinar la puerta de tu habitaci\303\263n</command>
     <result xml:space="preserve">Es la puerta que da al pasillo, pero está cerrada ¿?
 
@@ -2530,7 +2530,7 @@ Puedes ver a tu puerta y a la puerta de Diego.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x148a420">
+  <item nodeId="node-0x1a55130">
     <command xml:space="preserve">ex puerta jaja</command>
     <result xml:space="preserve">Intenta de nuevo, porque sólo te pude entender: examinar la puerta jaja.
 
@@ -2541,10 +2541,10 @@ Puedes ver a tu puerta y a la puerta de Diego.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x148a5a0"/>
+      <child nodeId="node-0x1a552b0"/>
     </children>
   </item>
-  <item nodeId="node-0x148a5a0">
+  <item nodeId="node-0x1a552b0">
     <command xml:space="preserve">ex la puerta jaja</command>
     <result xml:space="preserve">Intenta de nuevo, porque sólo te pude entender: examinar la puerta jaja.
 
@@ -2555,10 +2555,10 @@ Puedes ver a tu puerta y a la puerta de Diego.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x148a720"/>
+      <child nodeId="node-0x1a55430"/>
     </children>
   </item>
-  <item nodeId="node-0x148a720">
+  <item nodeId="node-0x1a55430">
     <command xml:space="preserve">examinar la puerta jaja</command>
     <result xml:space="preserve">Intenta de nuevo, porque sólo te pude entender: examinar la puerta jaja.
 
@@ -2569,10 +2569,10 @@ Puedes ver a tu puerta y a la puerta de Diego.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x148a8a0"/>
+      <child nodeId="node-0x1a555b0"/>
     </children>
   </item>
-  <item nodeId="node-0x148a8a0">
+  <item nodeId="node-0x1a555b0">
     <command xml:space="preserve">ex puerta</command>
     <result xml:space="preserve">Es la puerta que da al pasillo, pero está cerrada ¿?
 
@@ -2583,7 +2583,7 @@ Puedes ver a tu puerta y a la puerta de Diego.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x148aa20">
+  <item nodeId="node-0x1a55730">
     <command xml:space="preserve">ex puerta de mi cuarto</command>
     <result xml:space="preserve">Intenta de nuevo, porque sólo te pude entender: examinar la puerta de tu cuarto.
 
@@ -2594,10 +2594,10 @@ Puedes ver a tu puerta y a la puerta de Diego.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x148aba0"/>
+      <child nodeId="node-0x1a558b0"/>
     </children>
   </item>
-  <item nodeId="node-0x148aba0">
+  <item nodeId="node-0x1a558b0">
     <command xml:space="preserve">ex la puerta de tu cuarto</command>
     <result xml:space="preserve">puerta de tu cuarto
 
@@ -2608,7 +2608,7 @@ Puedes ver a tu puerta y a la puerta de Diego.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x148ad20">
+  <item nodeId="node-0x1a55a30">
     <command xml:space="preserve">ex puerta marron</command>
     <result xml:space="preserve">es la puerta que da al pasillo.
 
@@ -2619,10 +2619,10 @@ Puedes ver a tu puerta y a la puerta de Diego.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x148aea0"/>
+      <child nodeId="node-0x1a55bb0"/>
     </children>
   </item>
-  <item nodeId="node-0x148aea0">
+  <item nodeId="node-0x1a55bb0">
     <command xml:space="preserve">ex puerta marr\303\263n</command>
     <result xml:space="preserve">es la puerta que da al pasillo.
 
@@ -2633,7 +2633,7 @@ Puedes ver a tu puerta y a la puerta de Diego.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x14c61b0">
+  <item nodeId="node-0x1a55d30">
     <command xml:space="preserve">ex escri</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -2644,10 +2644,10 @@ Puedes ver a tu puerta y a la puerta de Diego.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x14c6330"/>
+      <child nodeId="node-0x1a55eb0"/>
     </children>
   </item>
-  <item nodeId="node-0x14c6330">
+  <item nodeId="node-0x1a55eb0">
     <command xml:space="preserve">ex escritorio</command>
     <result xml:space="preserve">La de horas que habré echado ahí estudiando.
 
@@ -2658,10 +2658,10 @@ Puedes ver a tu puerta y a la puerta de Diego.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x14c64b0"/>
+      <child nodeId="node-0x1a7f170"/>
     </children>
   </item>
-  <item nodeId="node-0x14c64b0">
+  <item nodeId="node-0x1a7f170">
     <command xml:space="preserve">ex escritorio</command>
     <result xml:space="preserve">Un momento, ese cajón estaba ahí?
 
@@ -2672,10 +2672,10 @@ Puedes ver a tu puerta y a la puerta de Diego.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x14c6630"/>
+      <child nodeId="node-0x1a7f2f0"/>
     </children>
   </item>
-  <item nodeId="node-0x14c6630">
+  <item nodeId="node-0x1a7f2f0">
     <command xml:space="preserve">ex cajon</command>
     <result xml:space="preserve">No observas nada especial en el cajon.
 
@@ -2686,10 +2686,10 @@ Puedes ver a tu puerta y a la puerta de Diego.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x14c67b0"/>
+      <child nodeId="node-0x1a7f470"/>
     </children>
   </item>
-  <item nodeId="node-0x14c67b0">
+  <item nodeId="node-0x1a7f470">
     <command xml:space="preserve">open cajon</command>
     <result xml:space="preserve">No conozco ese verbo.
 
@@ -2700,10 +2700,10 @@ Puedes ver a tu puerta y a la puerta de Diego.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x14c6930"/>
+      <child nodeId="node-0x1a7f5f0"/>
     </children>
   </item>
-  <item nodeId="node-0x14c6930">
+  <item nodeId="node-0x1a7f5f0">
     <command xml:space="preserve">abrir cajon</command>
     <result xml:space="preserve">Está cerrado con llave.
 
@@ -2714,7 +2714,7 @@ Puedes ver a tu puerta y a la puerta de Diego.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x14c6ab0">
+  <item nodeId="node-0x1a7f770">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Mi antigua habitación
 El escritorio, la cama, la pintura de la pared... todo sigue igual.
@@ -2728,10 +2728,10 @@ Puedes ver una puerta marrón.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x14c6c30"/>
+      <child nodeId="node-0x1a7f8f0"/>
     </children>
   </item>
-  <item nodeId="node-0x14c6c30">
+  <item nodeId="node-0x1a7f8f0">
     <command xml:space="preserve">ex escrito</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -2742,10 +2742,10 @@ Puedes ver una puerta marrón.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x14c6db0"/>
+      <child nodeId="node-0x1a7fa70"/>
     </children>
   </item>
-  <item nodeId="node-0x14c6db0">
+  <item nodeId="node-0x1a7fa70">
     <command xml:space="preserve">ex escritorio</command>
     <result xml:space="preserve">La de horas que habré echado ahí estudiando.
 
@@ -2756,10 +2756,10 @@ Puedes ver una puerta marrón.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x14c6f30"/>
+      <child nodeId="node-0x1a7fbf0"/>
     </children>
   </item>
-  <item nodeId="node-0x14c6f30">
+  <item nodeId="node-0x1a7fbf0">
     <command xml:space="preserve">ex escritorio</command>
     <result xml:space="preserve">Un momento, ese cajón estaba ahí?
 
@@ -2770,10 +2770,10 @@ Puedes ver una puerta marrón.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x14f0190"/>
+      <child nodeId="node-0x1a7fd70"/>
     </children>
   </item>
-  <item nodeId="node-0x14f0190">
+  <item nodeId="node-0x1a7fd70">
     <command xml:space="preserve">abrir cajon</command>
     <result xml:space="preserve">Está cerrado con llave.
 
@@ -2784,10 +2784,10 @@ Puedes ver una puerta marrón.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x14f0310"/>
+      <child nodeId="node-0x1a7fef0"/>
     </children>
   </item>
-  <item nodeId="node-0x14f0310">
+  <item nodeId="node-0x1a7fef0">
     <command xml:space="preserve">atacar escritorio</command>
     <result xml:space="preserve">Con la desesperación de no poder abrir nada de lo que tienes a tu alcance, pegas tal puñetazo sobre el escritorio que el cajón se abre ligeramente.
 
@@ -2798,10 +2798,10 @@ Puedes ver una puerta marrón.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x14f0490"/>
+      <child nodeId="node-0x1abb190"/>
     </children>
   </item>
-  <item nodeId="node-0x14f0490">
+  <item nodeId="node-0x1abb190">
     <command xml:space="preserve">ex cajon</command>
     <result xml:space="preserve">Abres un poco más el cajón y encuentras una llave al fondo.
 
@@ -2812,10 +2812,10 @@ Puedes ver una puerta marrón.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x14f0610"/>
+      <child nodeId="node-0x1abb310"/>
     </children>
   </item>
-  <item nodeId="node-0x14f0610">
+  <item nodeId="node-0x1abb310">
     <command xml:space="preserve">coger llave</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -2826,7 +2826,7 @@ Puedes ver una puerta marrón.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x14f0790">
+  <item nodeId="node-0x1abb490">
     <command xml:space="preserve">atacar escritorio</command>
     <result xml:space="preserve">Con la desesperación de no poder abrir nada de lo que tienes a tu alcance, pegas tal puñetazo sobre el escritorio que el cajón se abre ligeramente.
 
@@ -2837,10 +2837,10 @@ Puedes ver una puerta marrón.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x14f0910"/>
+      <child nodeId="node-0x1abb610"/>
     </children>
   </item>
-  <item nodeId="node-0x14f0910">
+  <item nodeId="node-0x1abb610">
     <command xml:space="preserve">ex cajon</command>
     <result xml:space="preserve">Abres un poco más el cajón y encuentras una llave oxidada al fondo.
 
@@ -2851,10 +2851,10 @@ Puedes ver una puerta marrón.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x14f0a90"/>
+      <child nodeId="node-0x1abb790"/>
     </children>
   </item>
-  <item nodeId="node-0x14f0a90">
+  <item nodeId="node-0x1abb790">
     <command xml:space="preserve">abrir puerta</command>
     <result xml:space="preserve">Está cerrada con llave.
 
@@ -2865,10 +2865,10 @@ Puedes ver una puerta marrón.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x14f0c10"/>
+      <child nodeId="node-0x1abb910"/>
     </children>
   </item>
-  <item nodeId="node-0x14f0c10">
+  <item nodeId="node-0x1abb910">
     <command xml:space="preserve">coger llave oxidad</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -2879,10 +2879,10 @@ Puedes ver una puerta marrón.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x14f0d90"/>
+      <child nodeId="node-0x1abba90"/>
     </children>
   </item>
-  <item nodeId="node-0x14f0d90">
+  <item nodeId="node-0x1abba90">
     <command xml:space="preserve">coger llave oxidada</command>
     <result xml:space="preserve">No veo eso que dices.
 
@@ -2893,7 +2893,7 @@ Puedes ver una puerta marrón.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x14f0f10">
+  <item nodeId="node-0x1abbc10">
     <command xml:space="preserve">\303\247</command>
     <result xml:space="preserve">TBD
 &quot;TBD.&quot; por Lo Purpura
@@ -2909,10 +2909,10 @@ Me despierto con un terrible dolor de cabeza y desorientado. Cuando consigo inco
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x152b130"/>
+      <child nodeId="node-0x1abbd90"/>
     </children>
   </item>
-  <item nodeId="node-0x152b130">
+  <item nodeId="node-0x1abbd90">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Pasillo
@@ -2924,10 +2924,10 @@ Pasillo
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x152b2b0"/>
+      <child nodeId="node-0x1abbf10"/>
     </children>
   </item>
-  <item nodeId="node-0x152b2b0">
+  <item nodeId="node-0x1abbf10">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Mi antigua habitación
