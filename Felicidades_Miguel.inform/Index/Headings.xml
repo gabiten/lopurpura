@@ -25,28 +25,28 @@
     </dict>
     <key>3</key><dict>
         <key>Filename</key><string>/home/david/Inform/Miguelon/lopurpura/Felicidades_Miguel.inform/Source/story.ni</string>
-        <key>Line</key><integer>23</integer>
+        <key>Line</key><integer>34</integer>
         <key>Title</key><string>Section 2 - Mensaje Inicial</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>4</key><dict>
         <key>Filename</key><string>/home/david/Inform/Miguelon/lopurpura/Felicidades_Miguel.inform/Source/story.ni</string>
-        <key>Line</key><integer>58</integer>
+        <key>Line</key><integer>69</integer>
         <key>Title</key><string>Part 2 - Escenario</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>5</key><dict>
         <key>Filename</key><string>/home/david/Inform/Miguelon/lopurpura/Felicidades_Miguel.inform/Source/story.ni</string>
-        <key>Line</key><integer>60</integer>
+        <key>Line</key><integer>71</integer>
         <key>Title</key><string>Chapter 1 - Teleco</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>6</key><dict>
         <key>Filename</key><string>/home/david/Inform/Miguelon/lopurpura/Felicidades_Miguel.inform/Source/story.ni</string>
-        <key>Line</key><integer>62</integer>
+        <key>Line</key><integer>73</integer>
         <key>Title</key><string>Section 1 - El último exámen</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
@@ -961,542 +961,640 @@
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>137</key><dict>
-        <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/basic screen effects.i7x</string>
+        <key>Filename</key><string>/home/david/Inform/Extensions/emily short/basic screen effects sp.i7x</string>
         <key>Line</key><integer>1</integer>
-        <key>Title</key><string>Version 7/140425 of Basic Screen Effects by Emily Short begins here</string>
+        <key>Title</key><string>Version 7 of Basic Screen Effects SP by Emily Short begins here</string>
         <key>Level</key><integer>0</integer>
         <key>Indentation</key><integer>0</integer>
     </dict>
     <key>138</key><dict>
-        <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/basic screen effects.i7x</string>
-        <key>Line</key><integer>9</integer>
-        <key>Title</key><string>Section - Clearing the screen</string>
+        <key>Filename</key><string>/home/david/Inform/Extensions/emily short/basic screen effects sp.i7x</string>
+        <key>Line</key><integer>13</integer>
+        <key>Title</key><string>Section 3 - Foreign Lang - Spanish Localization</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>139</key><dict>
-        <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/basic screen effects.i7x</string>
-        <key>Line</key><integer>22</integer>
-        <key>Title</key><string>Section - Waiting for key-presses, quitting suddenly</string>
+        <key>Filename</key><string>/home/david/Inform/Extensions/emily short/basic screen effects sp.i7x</string>
+        <key>Line</key><integer>47</integer>
+        <key>Title</key><string>Section 4 - Colores (for Z-machine only)</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>140</key><dict>
-        <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/basic screen effects.i7x</string>
-        <key>Line</key><integer>85</integer>
-        <key>Title</key><string>Section - Showing the current quotation</string>
-        <key>Level</key><integer>5</integer>
-        <key>Indentation</key><integer>1</integer>
+        <key>Filename</key><string>/home/david/Inform/Extensions/emily short/basic help menu sp.i7x</string>
+        <key>Line</key><integer>1</integer>
+        <key>Title</key><string>Basic Help Menu SP by Emily Short begins here</string>
+        <key>Level</key><integer>0</integer>
+        <key>Indentation</key><integer>0</integer>
     </dict>
     <key>141</key><dict>
-        <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/basic screen effects.i7x</string>
-        <key>Line</key><integer>92</integer>
-        <key>Title</key><string>Section - Centering text on-screen</string>
-        <key>Level</key><integer>5</integer>
-        <key>Indentation</key><integer>1</integer>
-    </dict>
-    <key>142</key><dict>
-        <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/basic screen effects.i7x</string>
-        <key>Line</key><integer>146</integer>
-        <key>Title</key><string>Section - Customizing the status line</string>
-        <key>Level</key><integer>5</integer>
-        <key>Indentation</key><integer>1</integer>
-    </dict>
-    <key>143</key><dict>
-        <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/basic screen effects.i7x</string>
-        <key>Line</key><integer>212</integer>
-        <key>Title</key><string>Section - Color effects (for Z-machine only)</string>
-        <key>Level</key><integer>5</integer>
-        <key>Indentation</key><integer>1</integer>
-    </dict>
-    <key>144</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>1</integer>
         <key>Title</key><string>Version 1/170804 of Spanish Language by Sebastian Arg begins here</string>
         <key>Level</key><integer>0</integer>
         <key>Indentation</key><integer>0</integer>
     </dict>
-    <key>145</key><dict>
+    <key>142</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>7</integer>
         <key>Title</key><string>Volume 1 - Settings</string>
         <key>Level</key><integer>1</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>146</key><dict>
+    <key>143</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>36</integer>
         <key>Title</key><string>Section 1 SR Hack - Spanish Bibliographical Data (in place of Section SR2/6a - Unindexed Standard Rules variables - Unindexed in Standard Rules by Graham Nelson)</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>147</key><dict>
+    <key>144</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>49</integer>
         <key>Title</key><string>Section 2 SR Hack - Others Hackings</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>148</key><dict>
+    <key>145</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>83</integer>
         <key>Title</key><string>Section 3 SR Hack - Spanish People (in place of Section SR1/11 - People in Standard Rules by Graham Nelson)</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>149</key><dict>
+    <key>146</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>119</integer>
         <key>Title</key><string>Volume 2 - Language</string>
         <key>Level</key><integer>1</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>150</key><dict>
+    <key>147</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>121</integer>
         <key>Title</key><string>Part 2.1 - Determiners</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>151</key><dict>
+    <key>148</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>123</integer>
         <key>Title</key><string>Chapter 2.1.1 - Articles</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>152</key><dict>
+    <key>149</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>217</integer>
         <key>Title</key><string>Chapter 2.1.2 - Numbers</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>153</key><dict>
+    <key>150</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>361</integer>
         <key>Title</key><string>Part 2.2 - Nouns</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>154</key><dict>
+    <key>151</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>363</integer>
         <key>Title</key><string>Chapter 2.2.2 - Pronouns and possessives for the player</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>155</key><dict>
+    <key>152</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>619</integer>
         <key>Title</key><string>Chapter 2.2.3 - Pronouns and possessives for other objects</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>156</key><dict>
+    <key>153</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>674</integer>
         <key>Title</key><string>Chapter 2.2.4 - Directions</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>157</key><dict>
+    <key>154</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>704</integer>
         <key>Title</key><string>Chapter 2.2.5 - Kinds</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>158</key><dict>
+    <key>155</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>706</integer>
         <key>Title</key><string>Section 2.2.5.1 - In the Standard Rules</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>4</integer>
     </dict>
-    <key>159</key><dict>
+    <key>156</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>737</integer>
         <key>Title</key><string>Section 2.2.5.2 - In Rideable Vehicles (for use with Rideable Vehicles by Graham Nelson)</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>4</integer>
     </dict>
-    <key>160</key><dict>
+    <key>157</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>742</integer>
         <key>Title</key><string>Section 2.2.5.3 - In Locksmith (for use with Locksmith by Emily Short)</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>4</integer>
     </dict>
-    <key>161</key><dict>
+    <key>158</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>747</integer>
         <key>Title</key><string>Chapter 2.2.6 - Plurals</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>162</key><dict>
+    <key>159</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>803</integer>
         <key>Title</key><string>Chapter 2.2.7 - Cases</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>163</key><dict>
+    <key>160</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>808</integer>
         <key>Title</key><string>Chapter 2.2.8 - Times of day</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>164</key><dict>
+    <key>161</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>904</integer>
         <key>Title</key><string>Part 2.3 - Adjectives</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>165</key><dict>
+    <key>162</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>951</integer>
         <key>Title</key><string>Part 2.4 - Verbs</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>166</key><dict>
+    <key>163</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>953</integer>
         <key>Title</key><string>Chapter 2.4.1 - Verb conjugations</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>167</key><dict>
+    <key>164</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>3185</integer>
         <key>Title</key><string>Chapter 2.4.2 - Meaningful verbs</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>168</key><dict>
+    <key>165</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>3187</integer>
         <key>Title</key><string>Section 2.4.2.1 - In the Standard Rules</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>4</integer>
     </dict>
-    <key>169</key><dict>
+    <key>166</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>3215</integer>
         <key>Title</key><string>Section 2.4.2.2 - In Rideable Vehicles (for use with Rideable Vehicles by Graham Nelson)</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>4</integer>
     </dict>
-    <key>170</key><dict>
+    <key>167</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>3220</integer>
         <key>Title</key><string>Section 2.4.2.3 - In Locksmith (for use with Locksmith by Emily Short)</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>4</integer>
     </dict>
-    <key>171</key><dict>
+    <key>168</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>3225</integer>
         <key>Title</key><string>Chapter 2.4.3 - Prepositions</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>172</key><dict>
+    <key>169</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>3230</integer>
         <key>Title</key><string>Volume 3 - Responses</string>
         <key>Level</key><integer>1</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>173</key><dict>
+    <key>170</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>3232</integer>
         <key>Title</key><string>Part 3.1 - Responses</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>174</key><dict>
+    <key>171</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>3234</integer>
         <key>Title</key><string>Chapter 3.1.1 - Responses in the Standard Rules</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>175</key><dict>
+    <key>172</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>3358</integer>
         <key>Title</key><string>Section 3.1.1.1 - Standard actions concerning the actor's possessions</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>4</integer>
     </dict>
-    <key>176</key><dict>
+    <key>173</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>3440</integer>
         <key>Title</key><string>Section 3.1.1.2 - Standard actions which move the actor</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>4</integer>
     </dict>
-    <key>177</key><dict>
+    <key>174</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>3513</integer>
         <key>Title</key><string>Section 3.1.1.3 - Standard actions concerning the actor's vision</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>4</integer>
     </dict>
-    <key>178</key><dict>
+    <key>175</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>3564</integer>
         <key>Title</key><string>Section 3.1.1.4 - Standard actions which change the state of things</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>4</integer>
     </dict>
-    <key>179</key><dict>
+    <key>176</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>3642</integer>
         <key>Title</key><string>Section 3.1.1.5 - Standard actions concerning other people</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>4</integer>
     </dict>
-    <key>180</key><dict>
+    <key>177</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>3710</integer>
         <key>Title</key><string>Section 3.1.1.6 - Standard actions which are checked but then do nothing unless rules intervene</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>4</integer>
     </dict>
-    <key>181</key><dict>
+    <key>178</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>3783</integer>
         <key>Title</key><string>Section 3.1.1.7 - Standard actions which always do nothing unless rules intervene</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>4</integer>
     </dict>
-    <key>182</key><dict>
+    <key>179</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>3859</integer>
         <key>Title</key><string>Section 3.1.1.8 - Standard actions which happen out of world</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>4</integer>
     </dict>
-    <key>183</key><dict>
+    <key>180</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>3941</integer>
         <key>Title</key><string>Chapter 3.1.2 - Responses in Basic Screen Effects (for use with Basic Screen Effects by Emily Short)</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>184</key><dict>
+    <key>181</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>3945</integer>
         <key>Title</key><string>Chapter 3.1.3 - Responses in Inanimate Listeners (for use with Inanimate Listeners by Emily Short)</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>185</key><dict>
+    <key>182</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>3952</integer>
         <key>Title</key><string>Part 3.2 - The Final Question</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>186</key><dict>
+    <key>183</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>3963</integer>
         <key>Title</key><string>Part 3.3 - Activities Rules Spanish Replacement</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>187</key><dict>
+    <key>184</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>4162</integer>
         <key>Title</key><string>Volume 4 - Command parsing</string>
         <key>Level</key><integer>1</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>188</key><dict>
+    <key>185</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>4164</integer>
         <key>Title</key><string>Part 4.1 - Pronouns and possessives in commands</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>189</key><dict>
+    <key>186</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>4230</integer>
         <key>Title</key><string>Part 4.2 - Understand grammar</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>190</key><dict>
+    <key>187</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>4232</integer>
         <key>Title</key><string>Part 4.2.1 - Replacing English verbs</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>191</key><dict>
+    <key>188</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>4315</integer>
         <key>Title</key><string>Part 4.2.2 - Actions</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>192</key><dict>
+    <key>189</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>4321</integer>
         <key>Title</key><string>Part 4.2.2.1 - Grammar for Actions in the Game World</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>193</key><dict>
+    <key>190</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>4686</integer>
         <key>Title</key><string>Part 4.2.2.2 - Grammar for Actions which happen out of world</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>194</key><dict>
+    <key>191</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>4706</integer>
         <key>Title</key><string>Part 4.2 - Additional language-specific actions</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>195</key><dict>
+    <key>192</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>4793</integer>
         <key>Title</key><string>Part SL4 - Spanish Phrasebook</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>196</key><dict>
+    <key>193</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>4795</integer>
         <key>Title</key><string>Section SL4/0 - Spanish Saying, basados en la rutinas de impresión de InformATE !</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>197</key><dict>
+    <key>194</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>4838</integer>
         <key>Title</key><string>Part 4.3 - Command parser internals</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>198</key><dict>
+    <key>195</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>4840</integer>
         <key>Title</key><string>Section 1 - Asuntos preliminares</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>199</key><dict>
+    <key>196</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>4970</integer>
         <key>Title</key><string>Section 3 - Vocabulary</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>200</key><dict>
+    <key>197</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>5028</integer>
         <key>Title</key><string>Part 4.4 - Informese translation of commands</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>201</key><dict>
+    <key>198</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>5030</integer>
         <key>Title</key><string>Section 6 - Translation</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>202</key><dict>
+    <key>199</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>5630</integer>
         <key>Title</key><string>Section 8 - Commands</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>203</key><dict>
+    <key>200</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>5738</integer>
         <key>Title</key><string>Section 10 - Printed Inflections</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>204</key><dict>
+    <key>201</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>6023</integer>
         <key>Title</key><string>Section 12 - Otras rutinas</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>205</key><dict>
+    <key>202</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>6262</integer>
         <key>Title</key><string>Section 13 - Otras Acciones</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>206</key><dict>
+    <key>203</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>6378</integer>
         <key>Title</key><string>Section 14 - Hora en palabras</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>207</key><dict>
+    <key>204</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>6384</integer>
         <key>Title</key><string>Section 15 - Spanish Banner</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>208</key><dict>
+    <key>205</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>6423</integer>
         <key>Title</key><string>Section 16 - PrefaceByArticle Hacked</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>209</key><dict>
+    <key>206</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>6497</integer>
         <key>Title</key><string>Section 17 - IndefArt Hacked</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>210</key><dict>
+    <key>207</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>6519</integer>
         <key>Title</key><string>Section 18 - Checkin I7 Build version - Not for release</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>211</key><dict>
+    <key>208</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>6556</integer>
         <key>Title</key><string>Part TC - Special functions extracted from Text Capture by Eric Eve (for use without Text Capture by Eric Eve)</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>212</key><dict>
+    <key>209</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>6576</integer>
         <key>Title</key><string>Chapter Z - Z-Machine Version (for Z-Machine Only)</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>213</key><dict>
+    <key>210</key><dict>
         <key>Filename</key><string>/home/david/Inform/Extensions/sebastian arg/spanish language.i7x</string>
         <key>Line</key><integer>6611</integer>
         <key>Title</key><string>Chapter G - Glulx (for Glulx Only)</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>211</key><dict>
+        <key>Filename</key><string>/home/david/Inform/Extensions/krister fundin/hidden items.i7x</string>
+        <key>Line</key><integer>1</integer>
+        <key>Title</key><string>Version 2 of Hidden Items by Krister Fundin begins here</string>
+        <key>Level</key><integer>0</integer>
+        <key>Indentation</key><integer>0</integer>
+    </dict>
+    <key>212</key><dict>
+        <key>Filename</key><string>/home/david/Inform/Extensions/krister fundin/hidden items.i7x</string>
+        <key>Line</key><integer>5</integer>
+        <key>Title</key><string>Chapter 1 - Properties and attributes</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>213</key><dict>
+        <key>Filename</key><string>/home/david/Inform/Extensions/krister fundin/hidden items.i7x</string>
+        <key>Line</key><integer>11</integer>
+        <key>Title</key><string>Chapter 2 - Floating objects - Unindexed</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>214</key><dict>
+        <key>Filename</key><string>/home/david/Inform/Extensions/krister fundin/hidden items.i7x</string>
+        <key>Line</key><integer>26</integer>
+        <key>Title</key><string>Chapter 3 - Removing initially hidden objects from play</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>215</key><dict>
+        <key>Filename</key><string>/home/david/Inform/Extensions/krister fundin/hidden items.i7x</string>
+        <key>Line</key><integer>32</integer>
+        <key>Title</key><string>Chapter 4 - Hiding and revealing</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>216</key><dict>
+        <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/basic screen effects.i7x</string>
+        <key>Line</key><integer>1</integer>
+        <key>Title</key><string>Version 7/140425 of Basic Screen Effects by Emily Short begins here</string>
+        <key>Level</key><integer>0</integer>
+        <key>Indentation</key><integer>0</integer>
+    </dict>
+    <key>217</key><dict>
+        <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/basic screen effects.i7x</string>
+        <key>Line</key><integer>9</integer>
+        <key>Title</key><string>Section - Clearing the screen</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>218</key><dict>
+        <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/basic screen effects.i7x</string>
+        <key>Line</key><integer>22</integer>
+        <key>Title</key><string>Section - Waiting for key-presses, quitting suddenly</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>219</key><dict>
+        <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/basic screen effects.i7x</string>
+        <key>Line</key><integer>85</integer>
+        <key>Title</key><string>Section - Showing the current quotation</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>220</key><dict>
+        <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/basic screen effects.i7x</string>
+        <key>Line</key><integer>92</integer>
+        <key>Title</key><string>Section - Centering text on-screen</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>221</key><dict>
+        <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/basic screen effects.i7x</string>
+        <key>Line</key><integer>146</integer>
+        <key>Title</key><string>Section - Customizing the status line</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>222</key><dict>
+        <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/basic screen effects.i7x</string>
+        <key>Line</key><integer>212</integer>
+        <key>Title</key><string>Section - Color effects (for Z-machine only)</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>223</key><dict>
+        <key>Filename</key><string>/home/david/Inform/Extensions/emily short/menus sp.i7x</string>
+        <key>Line</key><integer>1</integer>
+        <key>Title</key><string>Version 3 of Menus SP by Emily Short begins here</string>
+        <key>Level</key><integer>0</integer>
+        <key>Indentation</key><integer>0</integer>
+    </dict>
+    <key>224</key><dict>
+        <key>Filename</key><string>/home/david/Inform/Extensions/emily short/menus sp.i7x</string>
+        <key>Line</key><integer>11</integer>
+        <key>Title</key><string>Section 1</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>225</key><dict>
+        <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/menus.i7x</string>
+        <key>Line</key><integer>1</integer>
+        <key>Title</key><string>Version 3 of Menus by Emily Short begins here</string>
+        <key>Level</key><integer>0</integer>
+        <key>Indentation</key><integer>0</integer>
+    </dict>
+    <key>226</key><dict>
+        <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/menus.i7x</string>
+        <key>Line</key><integer>9</integer>
+        <key>Title</key><string>Section 1</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>227</key><dict>
+        <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/menus.i7x</string>
+        <key>Line</key><integer>208</integer>
+        <key>Title</key><string>Section 2 (for Glulx only)</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
     </dict>
 </dict></plist>
