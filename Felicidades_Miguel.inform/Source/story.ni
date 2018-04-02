@@ -132,7 +132,7 @@ Chapter 2 - De fiesta
 Section 1 - Teneré
 
 [Definimos la region de los bares]
-The fiesta is a region. Tenere, Testarrosa, Trastero and Ducha are in the fiesta.
+The fiesta is a region. Tenere, Testarrosa, Trastero, Plaza and Ducha are in the fiesta.
 
 [Definimos el Tenere]
 Tenere is a room. The printed name is "Teneré". The description is "Es jueves y en el Teneré hay Black Jack. Después de tomarte la primera copita decides probar suerte.[line break]Sobre la mesa hay una J y un 4 y el crupier te pregunta: [bold type]'¿Pides carta o te plantas?'".
@@ -176,17 +176,104 @@ After jugar_blackjack:
 		otherwise:
 			say "Esta vez decides ser más conservador y te quedas cerca del BlackJack. Cuando el crupier levanta su carta observas con incredulidad cómo la suma de sus cartas es 21. Encima pone una sonrisilla de suficiencia que le borrarías de la cara con un guantazo. El crupier recoge la mesa y te dice: '[bold type]¿Deseas jugar otra partida? Esto al final es cuestión de estadística...'";
 	if the partidas_jugadas is 10:
-		say "El crupier reparte las cartas y tienes un 4 y un 6 sobre la mesa. No te queda otra que pedir carta... así que la pides ¡y sale un as! Por fin la suerte (esta perra caprichosa) ha decidido cambiar de bando. El crupier, ya cansado y con ganas de irse a su casa te da la enhorabuena y te pregunta: '[bold type]¿Qué quieres de premio?'";		
+		say "El crupier reparte las cartas y tienes un 4 y un 6 sobre la mesa. No te queda otra que pedir carta... así que la pides ¡y sale un as! Por fin la suerte (esa perra caprichosa) ha decidido cambiar de bando. El crupier, ya cansado y con ganas de irse a su casa te da la enhorabuena y te pregunta: '[bold type]¿Qué quieres pedir de premio?'";
 	if the partidas_jugadas > 10:
 		say "Ya no se puede jugar más, el crupier se ha ido a su casa.".
 
 [Si se decide no continuar jugando, se va hacia la ramificación de FINAL MALO]
 After no_jugar_blackjack, say "Sales del Teneré y caes en un agujero negro que Rocio ha de desarrollar".
 
+[Solo se pueden pedir las botellas de Bourbon una vez y sólo si el camarero le ofrece el premio]
 Instead of pediring "dos botellas de Bourbon" for the first time:
 	if the partidas_jugadas is 10:
-		say "El camarero te da tus dos botellas de Bourbon".
+		say "El camarero te da tus dos botellas de Bourbon. Con ellas bajo el brazo decides que es hora de cambiar de garito, así que sales a la plaza a decidir cual será tu próximo destino.";
+		now the player is in the plaza.
 
+[Todo lo demas que pida es rechazado]
+Carry out pediring:
+	if the player is in Tenere:
+		if the partidas_jugadas is 10:
+			say "De eso no tenemos, pide otra cosa.";
+		otherwise:
+			say "Vamos a cerrar en breve, ya no ponemos nada.".
+			
+Plaza is a room. It is north of Tenere. The printed name is "La Plaza". The description is "Hacia el NORTE puedes ir al [bold type]TRASTERO.[roman type] Al ESTE, al [bold type]TESTARROSA.[roman type] Al OESTE, a [bold type]LA DUCHA.[roman type] Y al SUR al [bold type]TENERÉ.[roman type] ¿Hacia dónde te apetece ir?".
 
+Section 2 - La Ducha
+
+[Definimos la Ducha]
+Ducha is a room. The printed name is "La Ducha". The description is "¡Cómo te gusta sentirte joven e ir a garitos donde todavía se practican juegos de beber!, ¿eh? Pero como ya tienes una edad, tampoco puedes elegir juegos que te líen mucho la cabeza. Juegas a un caballero del 3 simplificado. Eres el caballero del 3 y bebes un sol y sombra siempre que saques un múltiplo de 3. Tienes los dados en la mano, así que llegados a este punto, sólo puedes hacer una cosa...".
+
+[Creamos la puerta entre la Plaza y la Ducha. Al crearla como "scenery" no se muestra en la descripción]
+The Puerta_ducha (f) is a open door. It is lockable and unlocked. It is west from Plaza and east from Ducha. The printed name is "[if the player is in the plaza]puerta que da a la Ducha[otherwise]puerta que da a la plaza". It is scenery.
+
+[Una vez entramos en la Ducha ya no se puede volver a salir]
+Carry out going to the Ducha for the first time: 
+	now the Puerta_ducha is closed;
+	now the Puerta_ducha is locked.
+
+[Extendemos el vocabulario con la acción de jugar al caballero de 3]
+jugar_c3 is an action applying to nothing.
+understand "tirar dados" as jugar_c3.
+
+[Definimos las variable con el primer y segundo dado y las veces que ha bebido y las inicializamos a 0]
+The primer_dado is a number that varies. The primer_dado is 0.
+The segundo_dado is a number that varies. The segundo_dado is 0.
+The veces_bebido is a number that varies. The veces_bebido is 0.
+
+[Bucle para jugar al caballero de 3]
+After jugar_c3:
+	now the primer_dado is a random number from 1 to 6;
+	now the segundo_dado is a random number from 1 to 6;
+	if the veces_bebido < 5:
+		if remainder after dividing (primer_dado + segundo_dado) by 3 is 0:
+			increase the veces_bebido by 1;
+			say "¡Has sacado un ";
+			say primer_dado + segundo_dado;
+			say "! Procedes a beberte ese sol y sombra que te toca.";
+			if the veces_bebido is 5:
+				say "Ha sido divertido pero basta ya de jueguecitos por hoy. La verdad es que ya llevas un buen rato bebiendo y el señor Roca te llama a gritos, por lo que entras en el baño.";
+				now the player is in Baño_ducha;
+		otherwise:
+			say "Sacas un ";
+			say primer_dado + segundo_dado;
+			say ".".
+
+[Definimos el baño de la Ducha]
+Baño_ducha is a room. The printed name is "En el baño de la Ducha". The description is "¡Qué alivio! Ya puedes seguir de fiesta mucho más relajado. Quieres volver al bar pero… ¡oh, cielos! ¡La puerta se ha atascado! No hay forma de moverla. Hay una ventana abierta en la pared que tienes enfrente, pero está como metro y medio por encima de tu cabeza. Hay un retrete justo debajo de la ventana, con una cadena de las antiguas suspendida del techo, y a la derecha, el lavabo. No hay papel higiénico.".
+
+[Definimos los elementos que hay en el baño]
+The retrete is a thing in the baño_ducha. It is fixed in place. The printed name is "retrete".
+The cadena (f) is a thing in the baño_ducha. It is fixed in place. The printed name is "cadena".
+The lavabo is a thing in the baño_ducha. It is fixed in place. It is a container. The printed name is "lavabo".
+The grifo is a switched off device in the lavabo. It is fixed in place.
+
+[Evitamos que se indique que en el lavabo hay un grifo]
+Rule for printing room description details of lavabo: omit contents in listing.
+
+[Repetimos esa frase cada vez que haga algo siempre que esté en el baño]
+Every turn:
+	if the player is in the baño_ducha:
+		say "Vamos, Miguel, van a pensar que te estás drogando o algo.".
+
+[Regla para decir que "subir a" es igual a "escalar a"]
+Instead of entering the retrete, try climbing the noun.
+
+[Si se sube al retrete, muere miserablemente]
+instead of climbing the retrete, end the story finally saying "La endeble tapa se hunde y te quedas atascado. Gritas pidiendo auxilio pero nadie puede entrar a rescatarte porque la puerta del baño está atascada. Pasa el tiempo, dejas de sentir las piernas. En cuestión de horas la gangrena te corroe y mueres miserablemente.".
+
+[Regla para funcione "tirar de"]
+Understand "tirar de [something]" as pulling.
+
+[Si tira de la cadena, muere miserablemente]
+Instead of pulling the cadena, end the story finally saying "Como estás un poco borracho, te haces un lío con la cadena y acabas ahorcándote. Mueres miserablemente.".
+
+[Regla para decir que "abrir el grifo" es igual a "encender el grifo"]
+Instead of opening the grifo, try switching on the noun. Instead of closing the grifo, try switching off the noun.
+
+[Si abre el grifo vuelve a la plaza]
+Instead of switching on the grifo:
+	say "¡Qué astuto, Miguel! Esta solución digna de dibujos animados es la que te salva la vida. El baño se va inundando poco a poco. Te mantienes a flote y, cuando el nivel del agua es lo suficientemente elevado, consigues salir por la ventana. ¡Enhorabuena! Pero ahora estás completamente calado… ni que acabaras de salir de La Ducha (LoL). Así no puedes volver a tu boda, de ninguna manera, qué dirá tu suegra. Lo mejor es que sigas de bares a ver si algún camarero amigo te puede dejar algo con lo que secarte, aunque sea el trapo de secar los vasos, que no ha visto una lavadora desde 1999.";
+	now the player is in the plaza.
 
 
